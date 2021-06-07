@@ -1,0 +1,2401 @@
+﻿Column1,Kichwa,Spanish,Sentimineto
+0,abya yala,continente americano,neutro
+1,abyalami chawchuri rikurimanta,racismo en america,negativo
+2,allpapi tiyashkakuna,accidentes geograficos,negativo
+3,wayku,acequia,neutro
+4,achachilasa  ñawpa kawsakkuna kitsil,antepasados,neutro
+5,achik,claro  luz,positivo
+6,achik mama,madrina,neutro
+7,achik wawa,ahijado  ahijada,neutro
+8,achik yaya / achik tayta,padrino,neutro
+9,achiksamaytu,ozono,neutro
+10,achikshumaytu,ozono,neutro
+11,achikyachina (yuyaymanta),aclarar,positivo
+12,achikyana (punchamanta),aclarar,positivo
+13,achka,mucho,positivo
+14,achkak,suficiente,neutro
+15,ahak,ofensor,negativo
+16,ahay,ofender  ofensa,negativo
+17,akapi,cebada,neutro
+18,akcha,pelo  cabello,neutro
+19,akcha kara,cuero cabelludo,neutro
+20,akllashka chani,muestra estadistica,neutro
+21,akllawarmi,virgen,positivo
+22,akllay,escoger,neutro
+23,akna,ceremonia,neutro
+24,akna,ceremonia,neutro
+25,akukutinchik,multiplo del gramo,neutro
+26,akuna,masticar,neutro
+27,akuy,vil,negativo
+28,alakay,alcanzar,positivo
+29,alapana,pegar  adherir,neutro
+30,alaparina,apegarse  aferrarse,positivo
+31,allana,excavar,neutro
+32,allawka,derecha (mano),neutro
+33,allawka  alliman,derecho,neutro
+34,alli,bien  bueno,positivo
+35,alli maki,mano derecha,neutro
+36,allichi,adorno,positivo
+37,allichina,arreglar,positivo
+38,allichiy,arreglar,positivo
+39,allikachina,gustar,neutro
+40,allikay,salud  beneficio,positivo
+41,allikillkay,ortografia,neutro
+42,allikillkay (w),ortografia,neutro
+43,allimanta,despacio  de buena manera,positivo
+44,allimikuy,nutricion,neutro
+45,allin,magnifico,positivo
+46,alliyana,sanar  curar,positivo
+47,alliyay,recuperar la salud,positivo
+48,allku,perro,neutro
+49,allpa,tierra  suelo,neutro
+50,allpa kara,corteza terrestre,neutro
+51,allpa khiwa,hierba rastrera,negativo
+52,allpachawpipacha muyuy,li­nea ecuatorial,neutro
+53,allpachinkari,erosion,negativo
+54,allpachinkariy,erosion,negativo
+55,allpachukchuy,temblor,negativo
+56,allpakamay saywachi,geografia politica,neutro
+57,allpakutik,movimiento de nutacion,neutro
+58,allpamama chaska,planeta tierra,neutro
+59,allpamamakamay,geografia,neutro
+60,allpamamapi rikuchi,ubicacion geografica,neutro
+61,allpampay,superficie de la tierra,neutro
+62,allpamuyuy,movimiento de traslacion,neutro
+63,allpanpa,superficial,negativo
+64,allpapacha,continente,neutro
+65,allpapachakak,natural,positivo
+66,allpapachapampa,superficie de la tierra,neutro
+67,allpapachapi tiyak chalwakuna,recursos ictiologicos,positivo
+68,allpapachapi tiyak chukikuna,recursos mineros,positivo
+69,allpapachapi tiyak yakukuna,recursos hidrografico,positivo
+70,allpapachapi tiyak yurakuna,recursos forestales,positivo
+71,allpapachapi tiyakuna,recursos naturales,positivo
+72,allpapiruruy,movimiento de rotacion,neutro
+73,allparantikillka,escritura,neutro
+74,allpashuyu,mapa,neutro
+75,allpashuyukamay,cartografi­a,neutro
+76,allpawaklliyay,erosion,negativo
+77,allpawira,petroleo,neutro
+78,allpawira  wisisi,petroleo,neutro
+79,allpawku,subterraneo,neutro
+80,allpañan,vi­a terrestre,neutro
+81,allpañutuchina,desterronar,positivo
+82,almut,almud (25 lib),positivo
+83,ama llulla,honestidad,positivo
+84,amapuna,traer,neutro
+85,amaru,serpiente,neutro
+86,amawta,cienti­fico,positivo
+87,amawta yachay,contenido cientifico,positivo
+88,amawtay,ciencia,neutro
+89,amañana,adaptar,positivo
+90,amañana  yacharina,adaptar,positivo
+91,amañarina,adaptarse,positivo
+92,amañariy,adaptacion,positivo
+93,amita,sopa,neutro
+94,ampana,bostezar,negativo
+95,amsa,opaco,negativo
+96,amsayana,ocultar el sol,neutro
+97,amukay,suavidad,positivo
+98,amulliy,poner algo en la boca,neutro
+99,ana,lunar,neutro
+100,anaku,falda,neutro
+101,anchachilasa  ñawpa kawsakkuna,antepasados,neutro
+102,anchakuyay,pasion de vehemencia amorosa,positivo
+103,anchallpa,globo terraqueo,neutro
+104,anchallpakamay,geopolitica,neutro
+105,anchayupay,importancia,positivo
+106,anchuchina,quitar  sustraer,negativo
+107,anchuchiy,quitar,negativo
+108,anchuna,irse de casa  moverse de sitio,negativo
+109,anchuriy,retirarse,negativo
+110,anchuy,retirada,negativo
+111,anka,gallinazo,neutro
+112,ankana,volar,neutro
+113,ankas,azul,neutro
+114,ankas tapa wara,blue jean,neutro
+115,ankay,ceremonial,neutro
+116,ankichik,radio emisor,neutro
+117,ankiyachik,radio receptor,neutro
+118,anku,vena  arteria,neutro
+119,ankuyana,marchitarse envecer,negativo
+120,anta,metal,neutro
+121,antaki,plomo,neutro
+122,antakullki,monedas,positivo
+123,antanikik,computadora,neutro
+124,antanikik chaski,correo electronico,neutro
+125,antapachachik,reloj mecanico,neutro
+126,antawa,coche  carro,neutro
+127,antayari,radio,neutro
+128,antayay,metalurgico,neutro
+129,antisuyu,region amazonica,neutro
+130,apana,llevar,positivo
+131,apanakuy,llevarse - relacionarse,positivo
+132,apankara,cancer(enfermedad),negativo
+133,apankura,cancer (signo),neutro
+134,aparikanta,medios de transporte,neutro
+135,aparina,cargar,positivo
+136,apariykancha,medios de transporte,negativo
+137,apay,guiar  conducir,positivo
+138,api,colada  mazamorra,neutro
+139,apuk,ancestros,neutro
+140,apuk,lider-autoridad,positivo
+141,apukkuna,autoridades,positivo
+142,apukkuna tantaripacha,periodo de integracion,neutro
+143,apukkuna tantatripacha,periodo de integracion,neutro
+144,apuktukushka,emperador,negativo
+145,apunchik,dios,positivo
+146,apunchikamay,religion,neutro
+147,apunchikwasi,iglesia,neutro
+148,apuskachak,soberbio,negativo
+149,apyayala,continente americano,neutro
+150,apyayalapi chawchuri rikurimanta,racismo en america,negativo
+151,apyu,caballo,neutro
+152,arawik,poeta,neutro
+153,thiyu / illul,arena,neutro
+154,arina,estrenar,positivo
+155,arinichina,convencer,positivo
+156,arinina,acceder  consentir,positivo
+157,arininakuy,acuerdo  tratado,positivo
+158,arininakuy,acuerdos  tratados,positivo
+159,ayñi,arma,negativo
+160,armana,bañar,positivo
+161,ashanka,canasto,neutro
+162,ashankayrumpa,basquet,neutro
+163,ashnana,oler,neutro
+164,ashtarina,mobilizarse  transportarse  moverse.,positivo
+165,asichik,hazmereir,negativo
+166,asichisiki,chistoso,positivo
+167,asina,reir,neutro
+168,asinayay,chistoso  que causa risa,positivo
+169,asipayak,burlon,negativo
+170,aspi,guion,neutro
+171,aspina,rascar  subrayar ,neutro
+172,atallpa,gallina,neutro
+173,atam,parasito,negativo
+174,ataw,jovez,negativo
+175,atawchay,fortuna,positivo
+176,atawchayuk,afortunado,positivo
+177,atina,vencer,positivo
+178,atipay,conquista,positivo
+179,atiy,poder,positivo
+180,atsiyana,estornudar,neutro
+181,atuk,lobo,neutro
+182,atukamay,industria,neutro
+183,atukay,industria,neutro
+184,atukayashka pukuy,produccion industrial,neutro
+185,atyak,babosa,neutro
+186,awaki,lunes,neutro
+187,awaki puncha,lunes,neutro
+188,awana,tejer,neutro
+189,awayllamkay,obraje,neutro
+190,awika,variedad,neutro
+191,awka,militar  soldado,neutro
+192,awkakancha,ejercito,neutro
+193,awkarik puncha,martes,neutro
+194,awkaruna,pagano,negativo
+195,awkawasi,cuartel,neutro
+196,awki,principe  noble,positivo
+197,aya uma,personaje mitologico que lidera el inti raymi  materializacion de las energias de la pacha mama,positivo
+198,aycha,carne,neutro
+199,aycha / ukku,carne  cuerpo,neutro
+200,ayllu,familia,neutro
+201,ayllu chariy,poseer familia,positivo
+202,ayllu shuti,apellidos (antroponimio,neutro
+203,ayllullanikipushak,monarquia,positivo
+204,ayllumallki,arbol genealogico,positivo
+205,ayllunikiyashka,grados de afinidad,positivo
+206,aymuray,mayo,neutro
+207,aymuray killa,mayo,neutro
+208,aynikuy,participacion,neutro
+209,aynina,convivir,positivo
+210,ayninakuy,participativa,positivo
+211,ayriwa,abril,neutro
+212,ayriwa killa,abril,neutro
+213,aysana,halar  cosechar,positivo
+214,aysana,arrastrar,negativo
+215,ayñi,arma,negativo
+216,añaki,bacteria,negativo
+217,añanku,hormiga,neutro
+218,añas,zorro,neutro
+219,añaw,virus,negativo
+220,chachina,masticar,neutro
+221,chakana,cruzar,neutro
+222,chakariy  mushukyay,cruzamiento,neutro
+223,chakata tullu,clavi­cula,neutro
+224,chakcha,alabanza,positivo
+225,chaki,pie,neutro
+226,chaki ruka,dedo del pie,neutro
+227,chaki sillu,uña del dedo del pie,neutro
+228,chaki uku,planta del pie,neutro
+229,chaki washa,talon,neutro
+230,chakichina,secar,neutro
+231,chakina,secar,neutro
+232,chakishka,seco,neutro
+233,chakishkapacha,sequi­a,negativo
+234,chakllamanyachi,paralelogramo,neutro
+235,chaklli,quimico,negativo
+236,chakllisinchi,quimica,neutro
+237,chakra,sementera,positivo
+238,chakrakamay,agricultura  agricola,neutro
+239,chakrakamay  allpa llankay,agricultura,neutro
+240,chakrana,cultivar,positivo
+241,chakrawiwakamay,agropecuaria,neutro
+242,chakru,mixto o combinado,neutro
+243,chakruy,composicion,neutro
+244,challay,rito,negativo
+245,challay  wilkay  hawkay,rito,negativo
+246,challwa,pez,neutro
+247,challwa kapina,pescar,neutro
+248,challwakamay,pesca  pesquera  ictiologÃ­a,neutro
+249,chani,valor,neutro
+250,chani - kuska,lugar turi­stico,positivo
+251,chanichina,valorar,positivo
+252,chanikuna,datos,neutro
+253,chanina,valorar,positivo
+254,chaniyay,valencia,neutro
+255,chaniyuk,caro  de valor en dinero,negativo
+256,chanka,pierna,neutro
+257,chantasu,llama,neutro
+258,chapak,policia,positivo
+259,chapak kamaypaktachi,intendencia de policia,positivo
+260,chapak kamaypaktachi puhak,comando provincia de policia,positivo
+261,chapak kamaypaktachi puhask,comando provincia de policia,positivo
+262,chapana,vigilar,positivo
+263,chapuna,mezclar,neutro
+264,chapuri,composicion,neutro
+265,chapuriy,combinacion,neutro
+266,charik,rico,positivo
+267,charikyana,enriquecer  ganar dinero  acumular(se),positivo
+268,charina,tener,neutro
+269,charinayay,tesoro,positivo
+270,charirashka rumpa,balon sostenido,neutro
+271,charirashka yasiy,balon sostenido,neutro
+272,charishkata killkakamachiy,registro de la propiedad,positivo
+273,chashnalla,solamente asi o de esa manera.,negativo
+274,chaska puncha,viernes,neutro
+275,chaska rikuchik,telescopio,neutro
+276,chaskakancha,constelacion,neutro
+277,chaskancha,constelacion,neutro
+278,chaski shuyulli,sello postal / timbre postal,neutro
+279,chaskichik,recibo,neutro
+280,chaskik,relevo,positivo
+281,chaskilli,buzon de correo / casillero de correo,neutro
+282,chaskina,recibir,neutro
+283,chaskinancha,codominio,neutro
+284,chawa,crudo,negativo
+285,chawar,cabuya  penco,neutro
+286,chawcha,delicado  fecundo  rapido de madurar,neutro
+287,chawchuy,origen,positivo
+288,chawpi,medio-mitad,neutro
+289,chawpi kawsaypacha makanakuy,guerra medieval,negativo
+290,chawpi pukcha,medio quintal,neutro
+291,chawpi puncha,medio dia,neutro
+292,chawpi tuta,media noche,neutro
+293,chawpi wata,medio año,neutro
+294,chawpi yachay,segundo nivel de educacion media,positivo
+295,chawpihanika,media fanega 120 lb,neutro
+296,chawpikakuna,medios,neutro
+297,chawpikuska,semirrecta,neutro
+298,chawpikutirik,media geometrica,neutro
+299,chawpina / rakina,partir,positivo
+300,chawpipampa,semiplano,neutro
+301,chawpisuyu,region central,neutro
+302,chawpiyak,media aritmetica,neutro
+303,chawpiyak chanikuna,medidas de tendencia central,neutro
+304,chawpiyamuk,mediana,neutro
+305,chawra,combustible,neutro
+306,chayana,llegar,positivo
+307,chayllatak,sinonimo,positivo
+308,chayman,directo,positivo
+309,chayniyak,distancia,neutro
+310,chaypikana,asistir,positivo
+311,chayra,aun,neutro
+312,chayrak,todavia,positivo
+313,chayrak ama,todavia no,negativo
+314,chayshinaya,copia,negativo
+315,chayshuk,otro  otra (siguiente),neutro
+316,chayshuk kawsay,otra vida,positivo
+317,chaysinaya,copia,negativo
+318,chaytalla,solamente,neutro
+319,chaytu,fantasma,negativo
+320,chichuna,fecundar,neutro
+321,chika,tamaño/ verdad,neutro
+322,chikan,diferente/ raro/ estraño,negativo
+323,chikanchik iñu,punto aparte.,neutro
+324,chikanchik iñu(w),punto aparte,neutro
+325,chikanrakikyuk pakiyupaykuna,fracciones heterogeneas,neutro
+326,chikanyana,diferenciar,positivo
+327,chikanyay,diferente o distinto,positivo
+328,chikchichak,coqueto/a,positivo
+329,chikchichay,coquetear  coqueteo,positivo
+330,chiknina,odiar,negativo
+331,chikta  shara,partido  resquebrajado,negativo
+332,chiktana,partir  rajar la madera,negativo
+333,chilina,naranja,neutro
+334,chillay,miercoles,neutro
+335,chillay puncha,miercoles,neutro
+336,chillka,chilca,neutro
+337,chimay,descubrir una adivinanza,positivo
+338,chimiyana,surgir  emerger  germinar,positivo
+339,chimlasay,bioxido de carbono,negativo
+340,chimpamanyaypurachi,seno,neutro
+341,chimpamanyaypurachimuy,cosecante,neutro
+342,chimpamanyaypuramunchi,cosecante,neutro
+343,chimpamanyaypuranchi,seno,neutro
+344,chimpana,cruzar,neutro
+345,chimpanakuy,antonimo,neutro
+346,chimpapurachi,relacion,positivo
+347,chimpapuranakuna,debatir,neutro
+348,chimpapuranakuy,debate,neutro
+349,chimpapuraychiy,comparacio relacionamiento,negativo
+350,chimpaykuchukuna,angulo opuesto por el vertice,neutro
+351,chinaku,homosexual  gay,neutro
+352,chinawakra,hembra  femenino para animales,neutro
+353,chinchaysuyu,norte,neutro
+354,chiniku,minuto,neutro
+355,chinilla,segundo,neutro
+356,chinkana,perderse  desaparecer,negativo
+357,chinkay,perder,negativo
+358,chinlli,desayuno,neutro
+359,chiri,frio,negativo
+360,chirikunuy,clima,neutro
+361,chirimuya,chirimoya,neutro
+362,chirina,hacer frio,negativo
+363,chiriwrku,paramo,neutro
+364,chishi,tarde,neutro
+365,chita,chivo  cabra,neutro
+366,chiwila,piña,neutro
+367,chucha,rapoza,positivo
+368,chuchi,pollo,neutro
+369,chuchu,seno,neutro
+370,chuhama  churipakchuri,nieto,neutro
+371,chukchina,recoger la sobra,negativo
+372,chukchu unkuy,paludismo,neutro
+373,chukchuk,tembloroso,negativo
+374,chukchuna,temblar,negativo
+375,chuki,mineral,neutro
+376,chukikamay,minera  mineria,neutro
+377,chukillankay,mitas,neutro
+378,chukllu,choclo,neutro
+379,chukri,herida,negativo
+380,chukrichiy,herir,negativo
+381,chukrina,lastimarse,negativo
+382,chukrishka,herido/a,negativo
+383,chukriy,herir,negativo
+384,chukriyku,ulcera,negativo
+385,chuku,casco  celada,neutro
+386,chukuri,comadreja,neutro
+387,chullachishka kutinkutinchikyuk puchu,diferencia de exponentes impares,positivo
+388,chullachishka yupay,numero impar,neutro
+389,chullashka kimsamanyachi,triangulo escaleno,neutro
+390,chullayashka yupay,numero impar,neutro
+391,chullpi,chulpi,neutro
+392,chumpi,faja,positivo
+393,chumpiku,cinta,neutro
+394,chunka,diez  10,neutro
+395,chunka shuk,once  11,neutro
+396,chunkachik hillay,material decimal,neutro
+397,chunkachishka yupaychikakunata,representacion polinomica del,neutro
+398,chunkakri,decimo,neutro
+399,chunkalli,decimal,neutro
+400,chunkana,juego de azar,neutro
+401,chunkayllichik,sistema decimal,neutro
+402,chuntapalashka,embrujado,negativo
+403,chupu,tumor,negativo
+404,churana,ropa  ponerse la ropa  llevar puesto,neutro
+405,churanakuna,vestimenta,neutro
+406,churi,hijo,neutro
+407,churu,caracol,neutro
+408,chushak,vacio,negativo
+409,chushik,lechuza,neutro
+410,chusku,cuatro  4,neutro
+411,chusku chunka,cuarenta  40,neutro
+412,chusku patsak,cuatrocientos  400,neutro
+413,chuskuchishka pampa,plano bidimensional (cartesiano,neutro
+414,chuskumanyachi,cuadrilatero,neutro
+415,chuspi,mosca,neutro
+416,chutana,halar,neutro
+417,chutarik,elasticidad,positivo
+418,chutarina,estirarse  ponerse en el suelo,negativo
+419,chuya,aguado,negativo
+420,chuyaklla yaku,agua potable,positivo
+421,chuyakllachina,potabilizar,positivo
+422,chuyakllachiy,potabilizacion,positivo
+423,chuyayana,asear,positivo
+424,chuyayay,desinfeccion,positivo
+425,chuyayay(gt),aseo,positivo
+426,hachun,nuera  cuñada,neutro
+427,hallmana,desyerbar,positivo
+428,hampatu,rana,neutro
+429,hampi,curacion  medicina,positivo
+430,hampik ikay,seguro medico,positivo
+431,hampikillkalli,receta medica,positivo
+432,hampina,curar,positivo
+433,hampiwasi,centro de salud  hospital,positivo
+434,hamuktana,entender,positivo
+435,hamutana,comprender,positivo
+436,hamutay,comprension/ comprender,positivo
+437,hanika,fanega,neutro
+438,hankana,desequilibrar,negativo
+439,hankay,desequilibrio,negativo
+440,hantsa,pancreas,neutro
+441,hapina,coger  agarrar,neutro
+442,haplla,descomedido,negativo
+443,harkana,atrancar,negativo
+444,harkana  kinchana,cercar,positivo
+445,harkarina,tolerancia,positivo
+446,harkariy,atascarse,negativo
+447,harkashka shimiki,si­labas trabadas.,negativo
+448,hatarikuna,manifestaciones,negativo
+449,hatariy,levantamiento,positivo
+450,hatun,grande,positivo
+451,hatun apuktukushka,señorios,positivo
+452,hatun hallmay,aporque,neutro
+453,hatun hatun runa,gigante,positivo
+454,hatun ishpa / isma,caca,negativo
+455,hatun kahas,macizo (montaña grande),neutro
+456,hatun kaksas,macizo (montaña grande),neutro
+457,hatun mama,abuela,neutro
+458,hatun paktay,objetivo general,neutro
+459,hatun rikuchik,indicador general,neutro
+460,hatun wankurikuna,organizaciones nacionales,neutro
+461,hatun yachay,tercer nivel de educacion superior,positivo
+462,hatun yaya / hatun tayta,abuelo,neutro
+463,hatuna,vender,neutro
+464,hatuna pampa,mercado,neutro
+465,hatuna wasilli,kiosko  chiringuito,neutro
+466,hatunkay,grandeza,positivo
+467,hatunkillka,mayuscula,neutro
+468,hatunkucha,mar,neutro
+469,hatunyachanawasi,universidad,neutro
+470,hawa,arriba,positivo
+471,hawachiy,alzar,neutro
+472,hawahawalla,superficialmente,negativo
+473,hawakara,epidermis,neutro
+474,hawakarak,epidermico  relativo a la epidermis,negativo
+475,hawalla,superficial,negativo
+476,hawalla shimiki,silaba simple.,neutro
+477,hawallallpa,suelo,neutro
+478,hawapacha,espacio  cielo,neutro
+479,hawaykawsay,civilizacion,neutro
+480,hawchashka,ensalada,neutro
+481,hayak,amargo  hiel  bilis,negativo
+482,hayak muyu,pimienta,negativo
+483,haytaypukllay,futbol,positivo
+484,hayñi,derecho,positivo
+485,hikama,jicama,positivo
+486,hillay,implemento,neutro
+487,hillaykuna,instrumentos,neutro
+488,hillaysapa,aparato,positivo
+489,hilli,sopa,positivo
+490,hita,pozo,negativo
+491,hondonada,pukru,neutro
+492,huchu kiru,muela,neutro
+493,huku ukuyayllika,secreccion endogeno,negativo
+494,hukukanllayay,secrecion exogeno,positivo
+495,hukurillawsallika,sistema excretor,negativo
+496,humpi,sudor,negativo
+497,humpina,sudar,positivo
+498,hunina,conjugar,positivo
+499,hunkay,semana,positivo
+500,hunkay / kanchisri,semana,positivo
+501,hunta,lleno,positivo
+502,hunu,million  1000000,positivo
+503,hutkunantak,taladro,neutro
+504,huña,moco,neutro
+505,ichanik,duda,negativo
+506,ichanik yuyal,oracion dubitativa.,negativo
+507,ichanik yuyay,oracion dubitativa.,negativo
+508,illak,cero  0,neutro
+509,illana  mana tiyana,no haber  ausentar,negativo
+510,illapa,arma de fuego (escopeta,negativo
+511,illay,faltar,negativo
+512,ima rikunchikuna,causa,positivo
+513,imachik,verbo,positivo
+514,imachik yuyayki,frase verbal,neutro
+515,imachikkuna,verbos,positivo
+516,imak,sujeto,negativo
+517,imakak,caracteristica,positivo
+518,imakay,concepto.,positivo
+519,imakay (w),concepto,positivo
+520,imakay sapsikuna,caracteristicas generales,neutro
+521,imakaychina,conceptualizar,positivo
+522,imakaychinamanta,conceptualizacion,positivo
+523,imallichik,adverbio,positivo
+524,imamantachiy,justificacion,positivo
+525,imanik,predicado,neutro
+526,imapash,cualquier cosa,neutro
+527,imarayku,causas,positivo
+528,imaruran,consecuencias,negativo
+529,imaruray,funcion,neutro
+530,imashinakan,formas,neutro
+531,imatukuna,acontecer.,neutro
+532,imatukuna (w),acontecer,neutro
+533,imatukuy,acontecimiento  suceder,negativo
+534,imayay,materia,positivo
+535,imaykuna,elementos,positivo
+536,imilla,adolescente (hombre) ,positivo
+537,inchi,mani,positivo
+538,inti,sol  (intipuncha) domingo,positivo
+539,inti llika,sistema solar,neutro
+540,inti puncha,domingo,positivo
+541,inti suyu,este,positivo
+542,intikinrayllipyay,solsticios,neutro
+543,intillayayllipyay,equinoccio,neutro
+544,intillika,sistema solar,positivo
+545,intiraymi,fiesta de sol,positivo
+546,intishayakllipyay,equinoccio,neutro
+547,intiwayllashka,fotosintesis,positivo
+548,ishkantinpurachi,sobreyectiva,neutro
+549,ishkay,dos  2,neutro
+550,ishkay chunka,veinte  20,neutro
+551,ishkay patsak,docientos  200,neutro
+552,ishkaychishka kutinkutinchikyuk yapa,suma de potencias con exponente par,positivo
+553,ishkaychishka yupay,numero par,neutro
+554,ishkaykillkanancha kutinchiy,factorizacion de binomios,neutro
+555,ishkaymanpurachi,biyectiva,positivo
+556,ishkayniki kallari yachay,segundo nivel,neutro
+557,ishkaynikichishka iñu,par ordenado,neutro
+558,ishkaynipa yuyal,oracion bimembre.,positivo
+559,ishkaynipa yuyay,oracion bimembre.,positivo
+560,ishkaypakta kimsamanyaychi,triangulo isosceles,neutro
+561,ishpa phuru,vejiga,neutro
+562,iskun,nueve  9,neutro
+563,iskun chunka,noventa  90,neutro
+564,iskun patsak,novecientos  900,neutro
+565,ismuwanu,compost,positivo
+566,isru,aro,neutro
+567,iwila,shampoo natural (planta),neutro
+568,iñina,creer,positivo
+569,iñiy,creencia  creer,positivo
+570,iñu uchilla suyukuna,puntos colaterales,neutro
+571,iñuku,atomo,neutro
+572,iñuwa,molecula,positivo
+573,kachachik,imperativo,neutro
+574,kachachik yuyay,oracion imperativa,positivo
+575,kachamuna,mandar  enviar,positivo
+576,kacharishka,libre,positivo
+577,kachi,sal,neutro
+578,kachipurawa,borraja,neutro
+579,kahaskancha,cordillera,neutro
+580,kahasmuku,nudos (de cordillera),positivo
+581,kakatsu,lagaña,negativo
+582,kakchiy,definicion,neutro
+583,kakrikuchina,describir.,neutro
+584,kakrikuchina (w),describir,neutro
+585,kaksaskancha,cordillera,neutro
+586,kaksaskuna,accidentes geograficos,positivo
+587,kaksasmuku,nudos (de cordillera),neutro
+588,kaksasuyu pampa,area andina,neutro
+589,kaktarikuchik,fisico (estructura),positivo
+590,kakunamaki,desafio,negativo
+591,kakwillay,certificado,neutro
+592,kakwillay  illu,certificado.,neutro
+593,kalak,debil,negativo
+594,kalak,debil,negativo
+595,kallampa,hongo,neutro
+596,kallanpa,hongo,neutro
+597,kallari yachay,primer nivel de educacion basica,positivo
+598,kallari yuyay,introduccion,positivo
+599,kallarillaktayku,primeros pobladores,neutro
+600,kallarinancha,dominio,positivo
+601,kallariy,presentacion  inicio,positivo
+602,kallariy yachay,educacion basica.,positivo
+603,kallariyuyay,presentacion,positivo
+604,kallpa,vigor,positivo
+605,kallpana,correr,positivo
+606,kallpanakuy,atletismo,positivo
+607,kallpay,correr,positivo
+608,kalluwatariy,trabalengua,neutro
+609,kamachashka,protegido,positivo
+610,kamachay,proteger,positivo
+611,kamachik,legislador  consejero,neutro
+612,kamachik atiy,poder legislativo,neutro
+613,kamachik wasi,corte superior de justicia,positivo
+614,kamachikamay,administracion,positivo
+615,kamachikkuna,leyes,positivo
+616,kamachina,consejo  exhoracion,neutro
+617,kamachipuk,legislativo,neutro
+618,kamachipuk tay,poder legislativo,positivo
+619,kamachipuy,legislar,neutro
+620,kamachiy,aconsejar,neutro
+621,kamakay,higiene,positivo
+622,kamana,cuidar/ abundancia,positivo
+623,kamanayay,precaucion,positivo
+624,kamari,regalo,positivo
+625,kamari  challay,ofrenda,neutro
+626,kamay,cuidar/proteccion,neutro
+627,kamay paktachi atiy,poder judicial,positivo
+628,kamayku,evaluacion,neutro
+629,kamaykuchiy,verificacion,positivo
+630,kamaykuna,evaluar,positivo
+631,kamaykurina,auto evaluar.,neutro
+632,kamaykurina(w),auto evaluar,neutro
+633,kamaykuriy,auto-evaluacion,positivo
+634,kamaykuy,evaluacion,positivo
+635,kamaypakta,mandato,positivo
+636,kamayuk,cuidador  facultades de autoridad,positivo
+637,kamayuk wasi,ministerio,neutro
+638,kamikuy,agravio,neutro
+639,kamu,libro,positivo
+640,kamukuska,biblioteca,neutro
+641,kamuti,camote,neutro
+642,kamuyachik,imprenta,positivo
+643,kan,tu,neutro
+644,kana,ser / estar,neutro
+645,kancha,afuera,positivo
+646,kancha shuti,sustantivo colectivo,neutro
+647,kanchachani milka,cuadro estadastico,positivo
+648,kanchachani shuyu,grafico estada­stico,neutro
+649,kanchachanikamay,estadastica,neutro
+650,kanchaman,hacia fuera,neutro
+651,kanchayashka,convexo,neutro
+652,kanchis,siete  7,neutro
+653,kanchis chunka,setenta  70,neutro
+654,kanchis patsak,setecientos  700,neutro
+655,kankuna / kikinkuna,ustedes / vosotros,neutro
+656,kanllayay,externo,neutro
+657,kapak,diciembre,neutro
+658,kapak apuk,gobierno,neutro
+659,kapak killa,diciembre,neutro
+660,kapak llakta,reino,positivo
+661,kapak saylla,meridiano,neutro
+662,kapak shuyu,mapa poli­tico,positivo
+663,kapakchi tantanakuy,organizacion poli­tica,neutro
+664,kapakchunkana,ajedrez,positivo
+665,kapakkamay,politica,positivo
+666,kapakllakta,imperio,neutro
+667,kapakmarka,imperio  reinado,neutro
+668,kapaktukukamay,politica,neutro
+669,kapasaylla,meridiano,neutro
+670,kapisayu,poncho  alargado y entero (kitukara).,positivo
+671,kapisayu (kitukara),poncho  alargado y entero,positivo
+672,kapuk  pukushka,producto,positivo
+673,kapulli,capuli,neutro
+674,kara,corteza  piel  cascara,neutro
+675,karana,dar regalo.,positivo
+676,karaskruyuwa,crustaceos,positivo
+677,kari,hombre,neutro
+678,kari atallpa,gallo,neutro
+679,karilla,gallardo,neutro
+680,karipurakuyay,homosexualidad,neutro
+681,kariwarmikanakamay,sexualidad,neutro
+682,karkanka  sakru,esqueleto,positivo
+683,karkay,vertebrado,positivo
+684,karu,lejos,neutro
+685,karuwillay,telegrama,neutro
+686,karuyari,telefono,neutro
+687,karuyarik wasilli,cabina telefonica,neutro
+688,karwa,llovizna,neutro
+689,karway killa,agosto,neutro
+690,kasha,espina,neutro
+691,kashakarayukwa,equidermos,neutro
+692,kasi,tranquilo  quieto,neutro
+693,kasik,paz,positivo
+694,kasilla,tranquilidad,positivo
+695,kasku,pecho,neutro
+696,kasku tullu,esternon,neutro
+697,kaspana,chamuscar,negativo
+698,kaspi,palo  madera,neutro
+699,kaspimakana,espada,negativo
+700,katana  killpana,cubrir,negativo
+701,katariy,levantamiento,positivo
+702,kati paktachik,complemento indirecto.,neutro
+703,katichay,prosa,neutro
+704,katichina,imitar.,neutro
+705,katik iñu,punto seguido.,neutro
+706,katik iñu(w),punto seguido,neutro
+707,katik paktachik kp,complemento indirecto,neutro
+708,katikmanyaypurachi,coseno,neutro
+709,katikmanyaypuramuchi,secante,neutro
+710,katikmanyaypuramunchi,secante,neutro
+711,katikmanyaypuranchi,coseno,neutro
+712,katiknina,narrar,positivo
+713,katikunkuy  purikunkuy,epidemia,negativo
+714,katina,seguir,negativo
+715,katinalla,modelo,positivo
+716,katinti yupaykuna,series numericas,neutro
+717,katisuyu rikuchik iñu,puntos colaterales,neutro
+718,katsu,escarabajo,neutro
+719,katuranti,negocio,positivo
+720,katuy,vender,positivo
+721,katuyranti,feria,positivo
+722,katuyrantin chani,el valor del intercambio,neutro
+723,katuyrantin chani,el valor del intercambio,neutro
+724,kawalli,lente  gafas,neutro
+725,kawana,cantar,positivo
+726,kaway,observacion.,positivo
+727,kawchuna,torcer,negativo
+728,kawi,rombo,neutro
+729,kawikuk,romboide,neutro
+730,kawilli,camilla,neutro
+731,kawitu-tiyarina,mueble,neutro
+732,kawpuna,torcer,neutro
+733,kawsa marka runa,nacionalidades.,neutro
+734,kawsakkuna,seres,positivo
+735,kawsana,vivir,positivo
+736,kawsay,cultura  vida,positivo
+737,kawsay killka,biografia,positivo
+738,kawsay killkamachiy,registro civil,neutro
+739,kawsay mallki,herencia genetica,positivo
+740,kawsaykuk,celula,neutro
+741,kawsaykuktantalli,tejido,neutro
+742,kawsaymarka,nacionalidad,positivo
+743,kawsaypacha,medio ambiente,positivo
+744,kawsaypura,interculturalidad,positivo
+745,kawsayrikcha,novela.,neutro
+746,kawsayrikcha w),novela,neutro
+747,kawsayshuktakayariy,aculturacion,negativo
+748,kawsayta chikipi churashpa,poniendose en peligro,negativo
+749,kawsayuk,celula,neutro
+750,kay,aqui,positivo
+751,kaya,mañana,positivo
+752,kayachina,convocar,positivo
+753,kayana,invitar/ llamar,positivo
+754,kayna,ayer,neutro
+755,kaytarikuchi,estados fisicos,positivo
+756,kaytu,nervio,neutro
+757,khallu,lengua,neutro
+758,khari,masculino,neutro
+759,khiwa,hierva,neutro
+760,khura,maiz germinado,positivo
+761,khuyana,amar,positivo
+762,khuzu,larva de escarabajo,neutro
+763,kichankuy,colera,negativo
+764,kichkikuchu,angulo agudo,neutro
+765,kichkikuchu kimsamanyachi,triangulo acutangulo,neutro
+766,kichkikuchu kimsamanyaychi,triangulo acutangulo,neutro
+767,kichuy,arrebatar,negativo
+768,kichwa llika,alfabeto kichwa,positivo
+769,kikin,usted,positivo
+770,kikin shuti,nombre propio,positivo
+771,kikinkuyari,autoestima,positivo
+772,kikinllatak,consigo mismo,positivo
+773,kikinmanta,atentamente,positivo
+774,kikinmutsuri,autoconsumo,negativo
+775,kikinrimay,idiolecto,neutro
+776,kikinruray,costumbres,positivo
+777,kikinyari,identidad,positivo
+778,kikinyarina,identificar - apropiar,negativo
+779,kiliki,quilico,neutro
+780,kilkawana,redactar,neutro
+781,killa,luna,neutro
+782,killa,mes,neutro
+783,killanturi,eclipse lunar,neutro
+784,killanturiy,eclipse lunar,neutro
+785,killapa nikirakiri,fases de la luna,neutro
+786,killimsa rumi,carbon de piedra,positivo
+787,killka kamachik,regla ortografica,positivo
+788,killka katina,leer,positivo
+789,killkakatiyuk,escritor,positivo
+790,killkana,escribir,positivo
+791,killkanancha,termino algebraico,neutro
+792,killkananchakamay,algebra,neutro
+793,killkananchapurachina,reduccion de terminos semejantes,neutro
+794,killkananchaychi,expresion algebraica,neutro
+795,killkapa unancha,signo de puntuacion.,neutro
+796,killkapa unancha (w),signo de puntuacion.,neutro
+797,killkawana,redactar.,positivo
+798,killkaya,carta,positivo
+799,killkayachay,tema - teore­a,neutro
+800,killkayrimay,obra literaria,positivo
+801,killpa,capa,neutro
+802,killpak kushma,sweater  saco,neutro
+803,killu,amarillo,neutro
+804,killu sara,maiz amarillo,positivo
+805,kimi killka,coeficiente o parte literal,neutro
+806,kimi yupay,coeficiente numerico,neutro
+807,kimina,acercar,positivo
+808,kiminancha,coeficiente,positivo
+809,kimirik,contigüos.,neutro
+810,kimirik kuchukuna,angulos contiguos o adiacentes,neutro
+811,kimirishka yuyay,oracion subordinada,neutro
+812,kimiriy,acercarse,neutro
+813,kimpu / kashtuna,mandibula  quijada,neutro
+814,kimraymaya,hipotenusa,neutro
+815,kimsa,tres  3,neutro
+816,kimsa chunka,treinta  30,neutro
+817,kimsa kilkanancha kutinchiy,factorizacion de trinomios,neutro
+818,kimsa patsak,trecientos  300,neutro
+819,kimsachishka kullka,prisma triangular,neutro
+820,kimsachishkapa tawa,trinomio cuadrado perfecto,neutro
+821,kimsakamachik,regla de tres,neutro
+822,kimsakamachimuk,regla de tres inversa,neutro
+823,kimsakamachiyak,regla de tres simple,neutro
+824,kimsakilkanancha kutinchiy,factorizacion de trinomios,neutro
+825,kimsamanyachi,triagulo,neutro
+826,kimsamanyachikamay,trigonometria,neutro
+827,kimsamanyapurachi,relaciones trigonomericas,neutro
+828,kimsaniki kallariy yachay,tercer nivel de ed. basica.,positivo
+829,kimsaniki kallariyachay,tercer nivel,positivo
+830,kimsapaktamanyachi,triangulo equilatero,neutro
+831,kincha,corral,neutro
+832,kinchak,corchetes.,neutro
+833,kinku,curva,neutro
+834,kinkuk,parantesis.,neutro
+835,kinraymanya,hipotenusa,neutro
+836,kinrayshuyu,funcion,neutro
+837,kinti,picaflor,positivo
+838,kinuwa,quinoa,positivo
+839,kipapakchiruray,proyecto,positivo
+840,kipapakchiruray yachay,proyecto de aula,positivo
+841,kipilli,paquete,neutro
+842,kiri,llaga,neutro
+843,kirkinchu / kachikampu,armadillo,neutro
+844,kiru,arbol,neutro
+845,kishparik,independencia,positivo
+846,kishpichina,perdonar,positivo
+847,kishpiripacha,liberalismo,positivo
+848,kishuar,quishuar,neutro
+849,kita,brioso,neutro
+850,kiti,canton,neutro
+851,kiti apuk,jefe politico,neutro
+852,kiti kamaklli,concejal,neutro
+853,kiti kapachik apuk,comisario nacional,neutro
+854,kitikapak,capital provincial,neutro
+855,kitilli,parroquia,neutro
+856,kitilli apuk,teniente poli­tico,neutro
+857,kucha,lago,neutro
+858,kuchaku,laguna,neutro
+859,kuchawpi,bicectriz,neutro
+860,kuchi,cerdo,neutro
+861,kuchulla,cerca,neutro
+862,kuchupatay,grado angular,neutro
+863,kuku  pukchi,libra,neutro
+864,kukulli,paloma,neutro
+865,kulla,enero,neutro
+866,kulla killa,enero,neutro
+867,kullasuyu,region sur,positivo
+868,kullka,prisma,neutro
+869,kullka puncha,jueves,neutro
+870,kullkikamak wankuri,asociacion bancaria,neutro
+871,kullkikamak wankuriy,asociacion bancaria,neutro
+872,kullkikamak wasi,banco  mutua  copo  corporacion  financiera,neutro
+873,kullkikamay,economia,positivo
+874,kullkikamay kamu,libro contable,positivo
+875,kullkikamay shinayachi,conmutabilidad bancaria,positivo
+876,kullkikamaychik,sistema contable,positivo
+877,kullkikikinchik,poliza,positivo
+878,kullkilli,billetes de denominacion baja  pequeños,negativo
+879,kullkimantawankuri,organizacion economica,positivo
+880,kullkimashnayachik,presupuesto,positivo
+881,kullkiminkay kamu,libro banco,positivo
+882,kullkipatsakri,impuesto,negativo
+883,kullkirayku hatun tantanakuy,grandes bloques economico,positivo
+884,kullkirayku llankay,actividad economica,positivo
+885,kullkiyuk,capitalista,neutro
+886,kullku,tronco,neutro
+887,kulta,pato,neutro
+888,kumuriy,inclinarse,neutro
+889,kuna,dar,positivo
+890,kunakuy,ofrecer,positivo
+891,kunakyuyayku,refran,positivo
+892,kunan,presente,positivo
+893,kunan pacha,tiempo presente,positivo
+894,kunan yallishka,participio,neutro
+895,kunana,consejo,positivo
+896,kunanyallishka,participio.,neutro
+897,kunka,garganta  cuello,neutro
+898,kunka tullu,nuca,neutro
+899,kunkaklla,olvidadiso,negativo
+900,kunkallina,bufanda,neutro
+901,kunkariy,olvidarse,negativo
+902,kunkashka,olvidado,negativo
+903,kunkay,olvidar,negativo
+904,kunkaycha,negligencia  descuido,negativo
+905,kunkaychashka,descuidado  negligente,negativo
+906,kunkaychay,descuidar,negativo
+907,kunkaychiy,omision  omitir,negativo
+908,kunkaylla,tranquilo  en reposo,positivo
+909,kunkuri,rodilla,neutro
+910,kunkuriy,arrodillarse,neutro
+911,kuntisuyu,occidente,neutro
+912,kuntur,condor,positivo
+913,kunuk,caliente,positivo
+914,kunuk allpa,costa,neutro
+915,kunuk yaku,agua termal,positivo
+916,kunukuy  killuchakay,carbohidrato,neutro
+917,kupa,rastrojo,negativo
+918,kupa  ñuku,basura,negativo
+919,kurikinka,curiquingue,neutro
+920,kurpa,masa (amasado),neutro
+921,kurpa (chanpa),terron,positivo
+922,kurpa  putuk,enano,positivo
+923,kurpañutuchi,desterronamiento,negativo
+924,kuru,gusano,positivo
+925,kurun anta,motocicleta  moto,positivo
+926,kururuna,ovillar,neutro
+927,kuruta,testiculo,neutro
+928,kusa,esposo  marido,positivo
+929,kusana,asar,nuestro
+930,kushi,alegre,positivo
+931,kushikuy,emocion,positivo
+932,kushillu,mono,neutro
+933,kushipatak,sacerdote,neutro
+934,kushiyay,alegria,positivo
+935,kushkapaktay,puntualidad,positivo
+936,kushma,camisa,neutro
+937,kushpana,saltar,neutro
+938,kushpana  pawana,saltar,neutro
+939,kuska,parte  sitio  lugar  direccion,neutro
+940,kuska imallichik,adverbio del lugar,neutro
+941,kuskallpayku,subterraneo,neutro
+942,kuskayupay chani,valor relativo,negativo
+943,kuski,septiembre  frondoso  abundancia,neutro
+944,kuski killa,septiembre,neutro
+945,kuskina  hamutayana,analizar,positivo
+946,kuskunku,buho,neutro
+947,kutachik,molinero,neutro
+948,kutana,molino,neutro
+949,kuticharina,rescatar,positivo
+950,kutichina,responder,positivo
+951,kutichiy,responder,positivo
+952,kutin,vez (veces),neutro
+953,kutinchi,multiplo.,positivo
+954,kutinchichiy,factorizacion,positivo
+955,kutinchik millka,tabla de frecuencias,positivo
+956,kutinchiklla,frecuencia absoluta,positivo
+957,kutinchina,repetir.,positivo
+958,kutinchina(w),repetir,positivo
+959,kutinchishka yupaykuna,numeros multiplos,positivo
+960,kutinchiy,multiplicacion,positivo
+961,kutinkutinchik,exponente,positivo
+962,kutinkutinchiy,potenciacion,positivo
+963,kutinkutinmuchiy,radicacion,positivo
+964,kutinkutirik,base (de potencia,neutro
+965,kutinriksina,reconocer,positivo
+966,kutirichiy,convertirse,neutro
+967,kutirik,factor comun,neutro
+968,kutirik taripay,busqueda del factor comun,neutro
+969,kutsana,rasgar.,negativo
+970,kutsi,ligero,neutro
+971,kutsiy,agilidad,positivo
+972,kuwartilla - ukapa,cuartilla ( +/- 60 lb.,neutro
+973,kuy,cuy / conejillo de indias,neutro
+974,kuya,reina  emperatriz  soberana del incario. seÃ±ora  dama,positivo
+975,kuyak,acariciador,neutro
+976,kuyana ,amar,positivo
+977,kuyashka,amante,negativo
+978,kuyaylla,hermosa  linda,positivo
+979,kuyka,lombri­z,neutro
+980,kuykakamay,lombricultura,positivo
+981,kuyllur,asterisco.,neutro
+982,kuytsa,joven  adolescente (mujer,neutro
+983,kuyurihillanta,maquina,neutro
+984,kuyuy,mover,neutro
+985,lachuri,hijastro,neutro
+986,shayak allpa,ladera,neutro
+987,lamama,madrastra,negativo
+988,tizan,lancha,neutro
+989,lapani,hermanastra,neutro
+990,laushi,hijastra,neutro
+991,lawawki,hermanastro,neutro
+992,layaya / latayta,padrastro,neutro
+993,llachak,vegetal,positivo
+994,llachakamay,flora,positivo
+995,llachapashka,remendado,neutro
+996,llachapay,remendar,neutro
+997,llachapayuk,remendon,neutro
+998,llaki,triste,negativo
+999,llaki,tristeza,negativo
+1000,llakichik,perjuicios,negativo
+1001,llakichik wallpariykuna,formas de explotacion,negativo
+1002,llakichipacha,la colonia,positivo
+1003,llakichiy,explotacion,neutro
+1004,llakilla,triste,negativo
+1005,llakitukuy,desastre,negativo
+1006,llakta,pueblo,positivo
+1007,llakta ushay,democracia,positivo
+1008,llaktakay,pueblos,neutro
+1009,llaktamanta llukshiri,migracion,negativo
+1010,llaktapak ushay,democracia,positivo
+1011,llaktari allpa,territorio,positivo
+1012,llaktarimay,dialecto,positivo
+1013,llaktay,pueblo.,neutro
+1014,llaktayku,poblacion,neutro
+1015,llaktushay,democracia,neutro
+1016,llakushi,sentimiento,neutro
+1017,llama,llama  oveja,neutro
+1018,llamkaypaktachi,funcion rol,neutro
+1019,llamkaywillay,informe,negativo
+1020,llamkayñan,planificacion,positivo
+1021,llampu,liso,neutro
+1022,llankahillay,equipos,negativo
+1023,llankamana,inutil,negativo
+1024,llankanauku,oficina,neutro
+1025,llankanaukuk,oficinista,neutro
+1026,llankayñan,planificacion,positivo
+1027,llano  campo,pampa,neutro
+1028,llantu,sombra,neutro
+1029,llanturiy,eclipse,neutro
+1030,llapiriy,presion,negativo
+1031,llashachik,balanza,neutro
+1032,llashak,masa y peso,neutro
+1033,llashak tupu,medida de masa,neutro
+1034,llatanay,descubrirse  sacarse la ropa,neutro
+1035,llawsayachik,endocrino,neutro
+1036,llawsayari,viscosidad,negativo
+1037,llawtu,corona  diadema,neutro
+1038,llichayuk,dichoso,positivo
+1039,llika,sistema,neutro
+1040,llika yachay wasikuna,redes educativas,neutro
+1041,llika  wallpa,estructura,neutro
+1042,lliwitupu,radianes,neutro
+1043,lluki,izquierdo,neutro
+1044,lluki maki,mano izquierda,neutro
+1045,llullana,mentir,negativo
+1046,llullu,tierno,positivo
+1047,llumpak,limpio,positivo
+1048,llumpakay,virginidad,positivo
+1049,llumpakshunku,castidad,positivo
+1050,llushpichiy,despegar,positivo
+1051,llutachina,pegar,negativo
+1052,llutariy,magnetismo,positivo
+1053,loma,tula,neutro
+1054,lulun,huevo,positivo
+1055,lumu,yuca,positivo
+1056,lutsay,proporcion  proporcionalidad,positivo
+1057,lutsaychishpa raki,reparto proporcional,positivo
+1058,lutsaykumuk,proporcion armonica o inversa,neutro
+1059,lutsaykutinchik,frecuencia relativa,positivo
+1060,lutsaykuyak,proporcionalidad inversa,positivo
+1061,lutsaysapayak,proporcionalidad directa,positivo
+1062,machana,emborrachar,negativo
+1063,machu,tuerto,negativo
+1064,makana,pegar,negativo
+1065,makanakuy,guerra,negativo
+1066,makanakuy runakuna,guerreros,negativo
+1067,makay,golpe  pegar  agravio,negativo
+1068,maki,mano,neutro
+1069,maki hawa,palma de la mano,neutro
+1070,maki ruka,uña del dedo de la mano,neutro
+1071,maki washa,dorso de la mano,neutro
+1072,maki-watana,manilla  pulsera,neutro
+1073,makillina,guante,neutro
+1074,makimañachi,colaboracion mutua,positivo
+1075,makimañachiy,prestacion de mano para el trabajo,positivo
+1076,makimañashpa,una mano de ayuda,positivo
+1077,makimañay,pedir la mano para casarse,positivo
+1078,makipakchiruray,artesania,positivo
+1079,makirumpay,voleibol,positivo
+1080,makirurashka,manualidad,positivo
+1081,makiruray,artesania,positivo
+1082,makiruraykamay,artesania,positivo
+1083,makiyasiy,voleibol,positivo
+1084,maklluy,peligro,negativo
+1085,maklluy (gt),peligro,negativo
+1086,mallina,probar  saborear,positivo
+1087,mama,madre  mama,neutro
+1088,mama chanka,muslo,neutro
+1089,mama chumpi,faja-madre,neutro
+1090,mama kullki kamachi,regla de interes,neutro
+1091,mamakamachik,constitucion,neutro
+1092,mamakucha,oceano,neutro
+1093,mamakullki,capital,neutro
+1094,mamallakta,pais,neutro
+1095,mamallakta kallaripa tantanakuy,asamblea constituyente,neutro
+1096,mamallakta kawsay kallari,vida republicana,neutro
+1097,mamallakta michari,defensa nacional.,neutro
+1098,mamallakta pura kapak kamay,politica exterior,neutro
+1099,mamallaktachiy,estado,neutro
+1100,mamallaktapa apukwasi,palacio de gobierno,neutro
+1101,mamallaktapa haylli,himno nacional,neutro
+1102,mamallaktapa kapak,nacionalista,neutro
+1103,mamallaktapak tantanakuy,estado,neutro
+1104,mamallaktapura kullkikulka,fondo monetario internacional (fmi,negativo
+1105,mamayakunta mintalay,comercio maritimo,positivo
+1106,mana alli,mal  malo,negativo
+1107,mana rikshka antakuna,los ovnis,neutro
+1108,mana riksishka,extraño,neutro
+1109,mana tukurik,infinito,neutro
+1110,manahaykapash,nunca jamas,negativo
+1111,manapakiyak yupay,numero irracional,neutro
+1112,manapipash,nadie  ninguno,negativo
+1113,manarak turuwan makiruray pacha,periodo preceramico,neutro
+1114,manashuwak,honrado,positivo
+1115,manañakcharishka,despinado,neutro
+1116,manchay,temer,negativo
+1117,manllariy,asustarse,negativo
+1118,manllay,temer  tener miedo,nuetro
+1119,manuchaskiy,cobrar,neutro
+1120,manya,borde  lado,neutro
+1121,manyaku,cateto,neutro
+1122,manyakupurachi,tangente,neutro
+1123,manyakupuramuchi,cotangente,neutro
+1124,manyakupuramunchi,cotangente,neutro
+1125,manyapikakkuna,extremos,neutro
+1126,manyatupu,perametro,neutro
+1127,manña,borde  orilla,negativo
+1128,mapayashka,obseno,negativo
+1129,mapayay,pornografi­a,negativo
+1130,marka kamachik,prefecto,positivo
+1131,markakamachiklli,consejero provincial,neutro
+1132,markapuk,gobernador,positivo
+1133,masha,yerno  cuñado,positivo
+1134,mashi,amigo,positivo
+1135,mashipurari,relacion mutuo,neutro
+1136,mashkaychani,incognita,neutro
+1137,mashnayachi,conocimiento de cantidad o calculo,neutro
+1138,mashnayachina,calcular,positivo
+1139,mashnaykuna,cantidad,positivo
+1140,mashu  chimpilaku,murcielago,neutro
+1141,mashuwa,mashua,neutro
+1142,maskana,buscar,neutro
+1143,maskaypacha,corona,positivo
+1144,masma yachak,ingeniero,positivo
+1145,masmana,construir,neutro
+1146,masmay,armar,neutro
+1147,mawkana,usar,neutro
+1148,may kutinchikuna,productos notables,neutro
+1149,may mutsuri,importantes,positivo
+1150,may rakikuna,cocientes notables,neutro
+1151,mayalli,indispensable,negativo
+1152,maychani  raymana,importancia,positivo
+1153,mayhatun,macro,neutro
+1154,maykanpash,cualquiera,neutro
+1155,maykutinchikuna,productos notables,neutro
+1156,maymachariy,alcoholismo,negativo
+1157,maymutsurik,importante,positivo
+1158,maymutsuriy  maychaniy,importancia,positivo
+1159,maypakchiruray,arte,neutro
+1160,mayrakikuna,cocientes notables,neutro
+1161,mayu,rio,neutro
+1162,mayuchilla,micro,neutro
+1163,maywa,morado  violeta,neutro
+1164,maywana,enamorar,positivo
+1165,maywana  munayana,enamorar,positivo
+1166,mañana,pedir,neutro
+1167,mañay,solicitud,neutro
+1168,mi si,gato,neutro
+1169,michachikanyay,descomposicion de la energi­a,neutro
+1170,michina,pastar,neutro
+1171,mika  mati,plato de madera,neutro
+1172,miklla,treinta libras,positivo
+1173,mikuna,comer,neutro
+1174,mikuy  mikuna,alimento,neutro
+1175,milchina,manipular,negativo
+1176,milchina  llanwana,palpar,neutro
+1177,milchinay,experimentar,neutro
+1178,milka,parrafo  cuadro,neutro
+1179,milkachishka,killka cuadro sinoptico.,neutro
+1180,milkachishka killka(w),cuadro sinoptico,neutro
+1181,milkakinrayshuyu,histograma,neutro
+1182,millanayay,feo,negativo
+1183,millaymakay,NaN,NaN
+1184,millkashuyu,grafico de barras,positivo
+1185,milluku,melloco,positivo
+1186,minchakama,despedida (proxima ocasion,neutro
+1187,minchayana,despedirse.,negativo
+1188,minchayana (w),despedirse,negativo
+1189,minkana,encargar,positivo
+1190,minkarik,huesped,neutro
+1191,mintala,comerciante,neutro
+1192,mintalana,comercializar,neutro
+1193,mintalanayay,comercializacion,neutro
+1194,mintalay,comercio,neutro
+1195,mintu,piramide,positivo
+1196,mirachina,aumentar,neutro
+1197,mirachina (w),reproducir,neutro
+1198,mirana,aumentar  producir ,neutro
+1199,mirka,pato  mancha de la cara,neutro
+1200,mishanakuy,competencia,positivo
+1201,mishay,ganr  competir,positivo
+1202,mishki,dulce,positivo
+1203,mishu,mestizo,negativo
+1204,mishuma uchu,aji menos picante,neutro
+1205,mitsa,verruga,neutro
+1206,mitsak,mezquino,neutro
+1207,mitsana,mezquinar,neutro
+1208,miyuchina  mapayachina,contaminar,neutro
+1209,miyuwayra,anhodrido carbonico,neutro
+1210,miyuy,contaminacion,negativo
+1211,miyuy wanu,fertilizante quimico,negativo
+1212,miyuychi,contaminacion,negativo
+1213,urku,montaña  cerro,neutro
+1214,sacha,monte  bosque  selva,neutro
+1215,muchana,besar,positivo
+1216,muchiku,sombrero,neutro
+1217,muksi,oxido,neutro
+1218,muku,nudo,neutro
+1219,muku,articulacion,neutro
+1220,munana,querer,positivo
+1221,munanayay,deseo carnal,negativo
+1222,munapayay,desear con locura,negativo
+1223,munarishka,aficionado,neutro
+1224,munay,deseo,positivo
+1225,munay killka,escritura de expresion libre,neutro
+1226,munay yachay,auto estudio.,neutro
+1227,munaymanta ruray,hobby  pasa tiempo,neutro
+1228,muntira,gorra,neutro
+1229,murtiñu,mortiños,neutro
+1230,muru unkuy,sarampion,negativo
+1231,muru  añawi,fruto,neutro
+1232,muruchu,morocho,neutro
+1233,murukuna,productos agricolas  granos,neutro
+1234,mushuk,nuevo,neutro
+1235,mushukpacha,neolitico,neutro
+1236,mushukyachinalla,renovable,positivo
+1237,muskuna,soñar,positivo
+1238,musparina,desvariar,negativo
+1239,musyana,preveer,positivo
+1240,muyuyrimay,mesa redonda.,neutro
+1241,muyuyshuyu,grafico de pasteles,neutro
+1242,muyuytupu,longitud de la circunferencia,neutro
+1243,nanay,dolor,negativo
+1244,nankay,equilibrio,positivo
+1245,napaykuna,saludos,neutro
+1246,niki,orden,neutro
+1247,nikichik,ordenador  computadora  pc,neutro
+1248,nikichina,ordenar  organizar,neutro
+1249,nikirakiri,fase,neutro
+1250,nikiyupay,numeros ordinales,neutro
+1251,nikiyupaykuna,numeros ordinales,neutro
+1252,nikyachay,teorema,neutro
+1253,nimaykan,ninguna,negativo
+1254,nina,fuego(llama  candela,neutro
+1255,nina kuru,luciernaga,neutro
+1256,ninayay  rupariy,combustion,negativo
+1257,nipa,elemento,neutro
+1258,nipakutichi,interseccion.,neutro
+1259,nipapurachi,correspondencia  relacion,neutro
+1260,nipayay,componente,neutro
+1261,nishani,autodeterminacion,positivo
+1262,nuna,espiritu  alma,positivo
+1263,pacha,tiempo y espacio,neutro
+1264,pacha imallichik,adverbio de tiempo,neutro
+1265,pacha shuktayay,fenomeno natural,positivo
+1266,pacha tupuk,reloj,neutro
+1267,pachachik,reloj,neutro
+1268,pachachik- sayllachik,reloj,neutro
+1269,pachakutik pacha,renacimiento,positivo
+1270,pachamama,mundo,positivo
+1271,pachamamapi tiyak,recurso natural,neutro
+1272,pachamamapi tiyakkuna,recursos naturales,neutro
+1273,pachanyachiy,fomento,positivo
+1274,pachapi tiyak chimpaykuna,teorema de la relatividad.,neutro
+1275,pacharikuy,cosmovision.,neutro
+1276,pacharikuy(w),cosmovision.,neutro
+1277,pachatupu,medida de tiempo,neutro
+1278,pachaykamay,fisica,neutro
+1279,pakana,esconder,neutro
+1280,pakarikuy,velar,neutro
+1281,pakarina,amanecer,positivo
+1282,pakashka,escondido,neutro
+1283,pakay,huabo,neutro
+1284,pakcha,cascada,neutro
+1285,pakchi,tecnica,neutro
+1286,pakchiruray,tecnologia,neutro
+1287,pakchirurayachay,taller,neutro
+1288,pakiriklla,fragil,positivo
+1289,pakiy,romper en pedazos  destrozar,negativo
+1290,pakiyupay,numero racional,neutro
+1291,pakpayu,aves,neutro
+1292,paktachani,ecuacion o igualdad de valores,neutro
+1293,paktachay,justicia,negativo
+1294,paktachichin,responsabilizar.,positivo
+1295,paktachichina,responsabilizar,positivo
+1296,paktachik,responsable,positivo
+1297,paktachik kuchu,angulo complementario,neutro
+1298,paktachik tantachishka,conjunto complementario,neutro
+1299,paktachikkuna,propiedades o relaciones,positivo
+1300,paktachikuna,propiedades,positivo
+1301,paktachiriy,asumir responsabilidad,positivo
+1302,paktachiy,responsabilidad,positivo
+1303,paktak,suficiente,negativo
+1304,paktakamu,libro mayor,neutro
+1305,paktakuchu,angulo recto,neutro
+1306,paktakuchu kimsamanyachi,triangulo rectangulo,neutro
+1307,paktakuyuy  waskariklla,ritmo,neutro
+1308,paktalla kawsay,equidad de genero,negativo
+1309,paktama,jeme,neutro
+1310,paktamanya,cateto menor,neutro
+1311,paktanancha,resultado,neutro
+1312,paktapuchu,diferencia simetrica,neutro
+1313,paktara,cuidado,positivo
+1314,paktaraki,divisibilidad.,neutro
+1315,paktarakikyuk pakiyupaykuna,fracciones homogeneas,neutro
+1316,paktarakikyupay,maximo comun divisor,neutro
+1317,paktarakirikyupay,mi­nimo comun multiplo,neutro
+1318,paktay,objetivo,neutro
+1319,paktayachay,curriculo,positivo
+1320,paktayashka,equivalente,neutro
+1321,paktayuyay,definicion,neutro
+1322,paku,cafe,neutro
+1323,pal anta,platano,neutro
+1324,palama  itha  añallu,insecto,neutro
+1325,palamamiyu,insecticida,neutro
+1326,pallana,cosechar,positivo
+1327,pallay,cosechar,positivo
+1328,palta,aguacate,neutro
+1329,paltarikkuska,barra,neutro
+1330,pamaway,cosmos,neutro
+1331,pamaway nipa,elemento cosmico,neutro
+1332,pamawayak,cosmico,neutro
+1333,pamawyri,cosmico,neutro
+1334,pampa,planicie,neutro
+1335,pampa shuyukuna,figuras planas,neutro
+1336,pampallpa,llanura,neutro
+1337,pampawarmi,prostituta,negativo
+1338,panchi,febrero,neutro
+1339,panchi killa,febrero,neutro
+1340,pani,hermana (hermano a hermana,positivo
+1341,pankakullki,billetes,neutro
+1342,pankalli,documento de identificacion  documento pequeño,neutro
+1343,panta,confuso,neutro
+1344,wampu allpa,pantano  cienega,neutro
+1345,pantay,confusion,negativo
+1346,papa,patata,neutro
+1347,papaya,papaya,neutro
+1348,parana,demorar  durar (en imbabura),negativo
+1349,parkuna,regar,neutro
+1350,paruk,pulmon,neutro
+1351,pascal kutinkutinchi,esquema de paskal,neutro
+1352,paskakuchu,angulo obtuso,neutro
+1353,paskakuchu kimsamanyaychi,triangulo obtusangulo,neutro
+1354,paskama,cuarta,neutro
+1355,paskama-ukapa,cuarta de mano,neutro
+1356,paskana,abrir,neutro
+1357,paskarikra,braza (longitud),neutro
+1358,paskay,abrir,neutro
+1359,pasña,adolescente (mujer,positivo
+1360,pata millma,vello puvico,negativo
+1361,pata tullu,hueso puvico,neutro
+1362,patarina,doblar.,neutro
+1363,patay,grado sexagecimal,neutro
+1364,patayak,tramo,neutro
+1365,patayay,tramo,neutro
+1366,patayayku,intervalo  recorrido  rango,neutro
+1367,patayku,minutos angulares,neutro
+1368,pataykulla,segundos angulares,neutro
+1369,patpa,pluma,neutro
+1370,patpay,emplumar,neutro
+1371,patsak,cien  100,neutro
+1372,patsak piti,tanto por ciento,neutro
+1373,patsakri,porcentaje,neutro
+1374,patsakri shutichi,notacion porcentual,neutro
+1375,patsakri shutichiy,notacion porcentual,neutro
+1376,patsakrikrapampa,cuadra,neutro
+1377,patsaktatkipampa,hectarea,neutro
+1378,patsakwata,siglo,positivo
+1379,pawana,volar,positivo
+1380,pawkar,marzo,positivo
+1381,pawkar,marzo,positivo
+1382,pawkar killa,marzo,positivo
+1383,pay,ella,positivo
+1384,paya,vieja,positivo
+1385,paya mama,anciana,positivo
+1386,paya ruka,dedo pulgar,neutro
+1387,payku,payco,neutro
+1388,paykuna,ellas,positivo
+1389,payllashka,pagado,neutro
+1390,payllay,pagar,neutro
+1391,paypachik,pertenencia,neutro
+1392,paypaknay,pertencer,neutro
+1393,peña,haka,neutro
+1394,phacha,sabana,neutro
+1395,phallkala,sien,neutro
+1396,phanka,hoja,neutro
+1397,phankalla,liviano,neutro
+1398,phatsayana,separar,negativo
+1399,phawachik anku,nervio,neutro
+1400,phintu,manta  trapo,neutro
+1401,phintu ushuta,medias,neutro
+1402,pichay,limpia,neutro
+1403,pichay  chuyay  mayllay,limpieza  aseo,neutro
+1404,pichka,cinco  5,neutro
+1405,pichka chunka,cincuenta  50,neutro
+1406,pichka patsak,quinientos  500,neutro
+1407,piki,pulga,neutro
+1408,pillis,piojo del cuerpo,negativo
+1409,pillpintu,mariposa,neutro
+1410,pimill,alga acuatica,neutro
+1411,pinkay,verguenza,negativo
+1412,pinkullu,tobillo,neutro
+1413,pinllu,lechero,neutro
+1414,piruri,rol,neutro
+1415,piruru,disco,neutro
+1416,pirway,diagramacion,neutro
+1417,pirwayay,maqueta,neutro
+1418,kutama,piramide natural,neutro
+1419,pishiyak pakiyupay,fraccion propia,neutro
+1420,pishiyashka,menor que,neutro
+1421,pishku,pajaro  ave,neutro
+1422,pishku  patpayuk,ave,neutro
+1423,piti,poco,neutro
+1424,pitikuska,segmento,neutro
+1425,pitina  kuchuna,cortar,neutro
+1426,pituy,deseo amoroso,positivo
+1427,pityuk  chuskulli pukcha,arroba,neutro
+1428,piñakuy,enfadado,negativo
+1429,piñana,enfadarse,negativo
+1430,piñashka,enojado,negativo
+1431,patpasapa,plumaje,neutro
+1432,chapak,policia,neutro
+1433,puchu,diferencia,neutro
+1434,puchu tupati,cabo de vela,neutro
+1435,puchuy,extraño,negativo
+1436,puka,rojo,neutro
+1437,puka sara,maiz rojo,neutro
+1438,pukara,lugares sagrados centros ceremoniales,negativo
+1439,pukcha,quintal,neutro
+1440,pukchiku,onza,neutro
+1441,pukllana,jugar,positivo
+1442,pukllay,deporte,positivo
+1443,pukpu,litro  botella,neutro
+1444,pukshay akllay kamachik,tribunal electoral,positivo
+1445,puku,plato,neutro
+1446,pukuk,soplador,neutro
+1447,pukukuk,productivo,positivo
+1448,pukukun,fecundo  fertil,positivo
+1449,pukuna,cerbatana,neutro
+1450,pukushka,encantado,positivo
+1451,pukuy,produccion,positivo
+1452,pukuyay,madurez,positivo
+1453,pukyu,vertiente,neutro
+1454,pullkanka,escudo,neutro
+1455,pullkankayuk,escudero,neutro
+1456,puma,puma,neutro
+1457,puma-maki,pumamaqui,neutro
+1458,punasuyu,region sierra,neutro
+1459,puncha,dia,neutro
+1460,punchaklla,claro,positivo
+1461,punchankamu,libro diario,positivo
+1462,punchanta kawsay,vida cotidiana,neutro
+1463,punchayakun,alba,neutro
+1464,puntu,vasija,neutro
+1465,pupu,ombligo,neutro
+1466,puray,relacion,positivo
+1467,purichihallmay,segunda desyerbe,neutro
+1468,purik,caminante,neutro
+1469,purikacha,paseo,neutro
+1470,purina,caminar,neutro
+1471,purun,llanura abandonada,neutro
+1472,purun wiwa,animal silvestre,positivo
+1473,purutu,frejol,neutro
+1474,pusak,ocho  8,neutro
+1475,pusak chunka,ochenta  80,neutro
+1476,pusak patsak,ochocientos  800,neutro
+1477,pusakkamay,direccion,neutro
+1478,pushak,lider,positivo
+1479,pushakakllay,tribunal,positivo
+1480,pusku  hatki,Acido,neutro
+1481,pusku  putuku,espuma,neutro
+1482,putiha,unidad fundamental de la fanega,neutro
+1483,putika,botija 12 5 lib,neutro
+1484,putitupu,medida de volumen,neutro
+1485,putu,galon,neutro
+1486,putuk,trapecio,neutro
+1487,putukuk,trapezoide,neutro
+1488,puyuy,evaporacion,neutro
+1489,puzun,estomago,neutro
+1490,puñuna,dormir,positivo
+1491,puñuyllak,insomnio,negativo
+1492,raka,vagina,neutro
+1493,rakacha,zanahoria,neutro
+1494,rakacha,zanahoria,neutro
+1495,rakikyupay,denominador,neutro
+1496,rakikyupaykuna,numeros divisores,neutro
+1497,rakinakuy,distribucion,neutro
+1498,rakinchi,submultiplo,neutro
+1499,rakiri,parte  seccion,neutro
+1500,rakirikuska,partes,neutro
+1501,rakirikyupay,numerador,neutro
+1502,raku,grueso,neutro
+1503,raku chunchulli,intestino grueso,neutro
+1504,raku kushma,abrigo,neutro
+1505,raku purutu,poroton,neutro
+1506,rakuyay,grosor o espesor,neutro
+1507,rantimpana,intercambiar.,neutro
+1508,rantimpayni,reciprocidad.,positivo
+1509,rantina,comprar,positivo
+1510,rantinpa pankakuna,documentos comerciales,neutro
+1511,rantinpak  ayni,reciprocidad,positivo
+1512,rantinpaktak,conmuntativa,neutro
+1513,rantinpanka,factura,neutro
+1514,rantinpankaku,tarjeta de credito,neutro
+1515,ranziyu,gringos  ingleses,neutro
+1516,ranziyukunapak mamallakta,pai­s anglosajona,neutro
+1517,rasu,solido agua,neutro
+1518,rasuyay,solidificacion agua,neutro
+1519,ratata,fuego energi­a,neutro
+1520,ratata allpa,polvora,neutro
+1521,ratata urku,fuego del volcan,negativo
+1522,rawmay,podar,neutro
+1523,rawrana,arder,negativo
+1524,rawranay kaspikuchuna kapak,caballero de la ardiente espada,neutro
+1525,rayku,ocasion,neutro
+1526,raymi,junio  fiesta,neutro
+1527,raymi killa,junio,neutro
+1528,razu,nevado,neutro
+1529,rikcha,semejanza,positivo
+1530,rikcha,semejanza  congruencia,positivo
+1531,rikcha kutirik,factor comun,neutro
+1532,rikchachani,valor semejante,neutro
+1533,rikchak,foto,neutro
+1534,rikchak,foto  fotografi­a  semejante,neutro
+1535,rikchakmaytu,carrete de fotos  rollo de pelicula para fotos,neutro
+1536,rikchay/suyu,figura,neutro
+1537,rikchayachiy,genetica,neutro
+1538,rikra,brazo,neutro
+1539,rikra uku,axila,neutro
+1540,rikramuku,codo,neutro
+1541,riksi,conocido,positivo
+1542,riksichik yuyay,presentacion,positivo
+1543,riksichikyuyay,presentacion,positivo
+1544,riksina,conocer,positivo
+1545,riksiri,identidad persona,positivo
+1546,riksishka,conocido,neutro
+1547,rikuchi,manifestacion,neutro
+1548,rikuchik ruka,dedo indice,neutro
+1549,rikuchikkuna,indicadores,neutro
+1550,rikuchina,exponer,positivo
+1551,rikuchishuyu,pictograma o icono,positivo
+1552,rikuchiy,i­ndice,neutro
+1553,rikuna,mirar,neutro
+1554,rikurayana,controlar,positivo
+1555,rikurik,vista  que se ha visto,neutro
+1556,rikuypacha,paisaje,neutro
+1557,rimak,hablante,neutro
+1558,rimana,relatar  hablar,positivo
+1559,rimanakuna,dialogar,positivo
+1560,rimarikuna,expresiones  conversaciones,neutro
+1561,rimayachakuy,seminario,neutro
+1562,rimaykachay,discurso,neutro
+1563,rimaytaki,copla,positivo
+1564,rinri,oreja  oido,neutro
+1565,rinri kuru,caracol del oi­do,neutro
+1566,rinrina,arete,neutro
+1567,ripana,ir,neutro
+1568,ripankalli,boleto o ticket de avion  tren  autobus,neutro
+1569,ritimuna,energia,positivo
+1570,ritirina kuska,lugares energeticos,positivo
+1571,ritiwayra,energi­a eolica,positivo
+1572,ritiy,energi­a eolica,positivo
+1573,ruka,dedo,neutro
+1574,ruku,viejo,neutro
+1575,ruku yaya / ruku tayta,anciano,neutro
+1576,rukutu uchu,aji­ picante,neutro
+1577,rumiyashka,fosil,neutro
+1578,runa,ser humano,neutro
+1579,runakak,ser humano,neutro
+1580,runapachakay,humanidad,neutro
+1581,runapak aycha,el cuerpo humano,neutro
+1582,runashina,personaje,neutro
+1583,runayay pacha yuyay,evolucion del hombre,positivo
+1584,runpaki,pelota de futbol,neutro
+1585,ruparishka,quemadura,negativo
+1586,rupariykuna,combustion,negativo
+1587,rurakay,deber hacer  obligacion,positivo
+1588,rurana,aplicar,positivo
+1589,rurarayana,ejercitar.,positivo
+1590,rurarayana,ejercitar,positivo
+1591,rurarayay,ejercitar,positivo
+1592,rurashkayuyay,antecedente,negativo
+1593,ruray,funcion  edificar  construir,positivo
+1594,ruray paktachi,rol funcion,neutro
+1595,ruraykatichiy,programa agenda,neutro
+1596,rurayri ñan,proceso operativo,neutro
+1597,rurukuna,frutas,neutro
+1598,ruwana,poncho,neutro
+1599,mayu,rio,neutro
+1600,sacha,selva,neutro
+1601,sacha wiwa,animal silvestre.,neutro
+1602,sachana,forestar,negativo
+1603,sachayu,silvestre,neutro
+1604,sakina,abandonar  dejar,negativo
+1605,sakiriy,quedarse,negativo
+1606,sakishka,abandonado  dejado,negativo
+1607,sakma,bofetada,negativo
+1608,sakmay,abofetear,negativo
+1609,sakra,brujo,neutro
+1610,sakrachiy,hacer brujeria,negativo
+1611,sakray,embrujar  hechizar  echar maleficios,negativo
+1612,saksana,hartar,negativo
+1613,salliy,azufre,neutro
+1614,samana,descansar,positivo
+1615,samay,aliento  respiracion,positivo
+1616,samaytu,aura,neutro
+1617,sami,variedad  clase,neutro
+1618,saminay,herencia,positivo
+1619,saminchashka,bendito,positivo
+1620,saminchay,bendecir,positivo
+1621,samiyachiy,clasificacion,neutro
+1622,sanka,cerco  excavacion,neutro
+1623,sanku,espeso,neutro
+1624,sapalla,viudo  viuda,negativo
+1625,sapalla nipapurachi,correspondencia biuni­voca,neutro
+1626,sapalla rikcha kutirik,factor comun monomio,neutro
+1627,sapalla shuti,sustantivo individual,neutro
+1628,sapallu,sapallo,neutro
+1629,sapan,cada quien - cada uno,neutro
+1630,sapan kawsaykuna,racismo,negativo
+1631,sapansami chain,poblacion estadistica,neutro
+1632,sapansami chani,poblacion estadistica,neutro
+1633,sapapurachi,inyectiva,neutro
+1634,sapi,raiz,neutro
+1635,sapsi,caracteristicas,neutro
+1636,sapsi  imakay,caracteristicas,neutro
+1637,sapsikuna,caracteristicas,neutro
+1638,sara,maiz,neutro
+1639,saran,rendija,neutro
+1640,sarun / kaynapak kayna,anteayer,neutro
+1641,sasa yuyay,oracion compuesta,positivo
+1642,sasa yuyay,oracion compuesta,positivo
+1643,sasak,dificil,negativo
+1644,sasamanta,dificilmente,negativo
+1645,sasasapa,dificultad,negativo
+1646,sasi,noviembre,neutro
+1647,sasi killa,noviembre,neutro
+1648,satina,meter,neutro
+1649,satirishka,metido  metiche,negativo
+1650,sawarina warmi,novia  prometida,positivo
+1651,saylla,hora,neutro
+1652,sayllachik,horario,neutro
+1653,sayllachikancha,husos horarios,neutro
+1654,sayni,lila,neutro
+1655,saywa,lindero  limite,negativo
+1656,sayway,limitacion,negativo
+1657,sañukata,tejado,neutro
+1658,shanu  uki,cafe  color,neutro
+1659,shayak,vertical,neutro
+1660,shaykushka,cansado,negativo
+1661,shayri,tabaco,neutro
+1662,shayriyay,tabaquismo,neutro
+1663,shañu  kiwi,cafe  planta,neutro
+1664,shikra,bolso  cartera,neutro
+1665,shikshi,comezon,negativo
+1666,shimi,boca,neutro
+1667,shimi kamachik,gramatica,positivo
+1668,shimi kara,labio,neutro
+1669,shimi kiru,diente,neutro
+1670,shimi millma,bigote barba,neutro
+1671,shimiki,si­laba,neutro
+1672,shimiku,morfema,neutro
+1673,shimiku yuyay awariy,morfosintaxis,neutro
+1674,shimikukancha yachay,morfologia,neutro
+1675,shimininakuy,prometerse mutuamente,positivo
+1676,shiminishka,promesa,positivo
+1677,shiminiy,prometer,positivo
+1678,shimisapa,chismoso,negativo
+1679,shimiyari,relacion,positivo
+1680,shimiyuk kamu,diccionario,positivo
+1681,shina,ejemplo,neutro
+1682,shina imallichik,adverbio de modo,neutro
+1683,shinalla  rikchalla,parecido a,neutro
+1684,shinashinalla,sencillo,neutro
+1685,shipir,cuña,neutro
+1686,shiray,droga,negativo
+1687,shitana,arrojar  tirar,negativo
+1688,shiwi,anillo,neutro
+1689,shuk,uno  1,positivo
+1690,shuk patay paktachani,ecuacion de primer grado,positivo
+1691,shukkuna,unos,positivo
+1692,shukllamanta nipapurachi,correspondencia univoca,neutro
+1693,shukllayashka,unidad,neutro
+1694,shukniki kallari yachay,primer nivel,neutro
+1695,shukniki patayay,primer tramo,neutro
+1696,shuknipa yuyay,oracion unimembre,neutro
+1697,shukta charik tantanakuykuna,potencias dominantes,positivo
+1698,shuktak,otro,neutro
+1699,shuktakkuna,otros,neutro
+1700,shuktayachik,caso,neutro
+1701,shuktayay,derivados,positivo
+1702,shukyachina,fusionar,positivo
+1703,shukyachishka,unificado grafia,neutro
+1704,shunku,nucleo  corazon,neutro
+1705,shunku ruka / chawpi ruka,dedo del corazon  dedo del medio,neutro
+1706,shunku yuyay,idea central,positivo
+1707,shunkuna,humildad,positivo
+1708,shunkushka,presentimiento,positivo
+1709,shunkuyuk,humilde,positivo
+1710,shunkuyuyay,intencion,positivo
+1711,shushuna,filtrar,positivo
+1712,shutikuna,nomenclatura,neutro
+1713,shutillatak,verdadero/a,positivo
+1714,shutilli,adjetivo,neutro
+1715,shutintak,en verdad,neutro
+1716,shutipak rantikuna,pronombres personales,neutro
+1717,shutipi (llaktapak shutipi),representacion,neutro
+1718,shutiranti,pronombre,neutro
+1719,shutiy,verdad,positivo
+1720,shuwana,robar,positivo
+1721,shuyay,esperar,positivo
+1722,shuyu,imagen  dibujo  grafico,neutro
+1723,shuyu nikichik,ordenador grafico,neutro
+1724,shuyuchik chakata,rosa de los vientos,positivo
+1725,shuyutupukamachi,sistema geometrico,positivo
+1726,shuyutupukamay,geometria,neutro
+1727,shuyutupukamaychi,sistema geometrico,neutro
+1728,shuyutupumanya,figura geometrica,neutro
+1729,siki,nalga,negativo
+1730,siki tullu / siki chupa tullu,coxis,neutro
+1731,siki utuku,ano,negativo
+1732,siklla,gentil,positivo
+1733,sinchi,duro,negativo
+1734,sinchi aycha,musculo,neutro
+1735,sinchi rumi,solido,neutro
+1736,sinchi rumpa,esfera solida,neutro
+1737,sinchi wiru,cilindro solido,neutro
+1738,sinchikay,resistencia,positivo
+1739,sinchikuy,esfuerzo,positivo
+1740,sinchiruna,valiente,positivo
+1741,sinchiyachik,acentuacion/ atrevido,neutro
+1742,sinchiyachik unancha,signo de exclamacion,neutro
+1743,sinchiyachiy,atreverse,neutro
+1744,sinchiyashka,dureza,positivo
+1745,sinchiyay,solidificacion,neutro
+1746,sinchiyuyana,razon,positivo
+1747,sinchiyuyarishka,razonado,positivo
+1748,sinka,nariz,neutro
+1749,sinka utuku,fosa nasal,neutro
+1750,sinkanku,elefante,neutro
+1751,sirana,coser,neutro
+1752,sirik,horizontal,neutro
+1753,sirina,acostar,positivo
+1754,sirma,electricidad,neutro
+1755,sirpa,traicion,negativo
+1756,sirpak,traidor,negativo
+1757,sirpashka,traicionado,negativo
+1758,sirpay,traicionar,negativo
+1759,sisa,flor,positivo
+1760,siti,muñeco,neutro
+1761,sitwa,julio,neutro
+1762,sitwa killa,julio,neutro
+1763,suchu,parali­tico,neutro
+1764,sukta,seis  6,neutro
+1765,sukta chunka,sesenta  60,neutro
+1766,sukta pakta umiña,cubo o exaedro,neutro
+1767,sukta patsak,seiscientos  600,neutro
+1768,suktachishka tiksi umiña,poliedro hexagonal,neutro
+1769,suktachishka umiña,poliedro hexagonal,neutro
+1770,suku,gris  carrizo,neutro
+1771,sulka kitilli,parroquia,neutro
+1772,sulka kitilli ,parroquia,neutro
+1773,sumak,bonito  hermoso  bello  rico  excelente,positivo
+1774,sumak killka,caligrafia,neutro
+1775,sumak kuska,zona  lugar turistica,positivo
+1776,sumak kuskakamay,turismo,positivo
+1777,sumak kuskakuna,lugares turi­sticos,positivo
+1778,sumak napaywan,saludos cordiales,positivo
+1779,sumak rimariy,literario,neutro
+1780,sumak rimay yachay,literatura,neutro
+1781,sumak rimayachak,literato,neutro
+1782,sumak rimayachay,literatura,neutro
+1783,sumak rimaysami,genero literario,neutro
+1784,sumak rimaysami (w),genero literario,neutro
+1785,sumak yupay,honra  honor,positivo
+1786,sumakillka,caligrafia.,neutro
+1787,sumakyachik rimay,figura literaria,neutro
+1788,sumakyachik yura,planta ornamental,neutro
+1789,sumakyachina,respeto  respetuoso,positivo
+1790,sumaychana - muchana,respetar,positivo
+1791,sumaychay,respeto,positivo
+1792,suni,longitud,neutro
+1793,sunikuchu,angulo llano o plano,neutro
+1794,sunisuytu,regla o regleta,neutro
+1795,sunitupu,medida de longitud,neutro
+1796,suniwachi,jabalina,neutro
+1797,suniyachik kuchu,angulo suplementario,neutro
+1798,suniyak,linea,neutro
+1799,sunka ,barba,neutro
+1800,sunkana  tsunkana,absorber,neutro
+1801,sunturpawkar,lanza,neutro
+1802,supa  pakpa  karachi,fibra cabuyo,neutro
+1803,surkuy,sacar,neutro
+1804,suytuyashka kullka,prisma rectangular,neutro
+1805,suyu,region,neutro
+1806,suyu rikuchik iñu,puntos cardinales,neutro
+1807,suyuta rikuchik anta,brujula,positivo
+1808,taki,musica,positivo
+1809,takina,cantar,positivo
+1810,takina,tocar musica,positivo
+1811,takiwayrariy,aerobico,positivo
+1812,takzu,tacso,neutro
+1813,tallpa,camisa,neutro
+1814,talpa,blusa,neutro
+1815,tampu,posta,neutro
+1816,tampul,desorden,negativo
+1817,tampulyachay,conocimiento desordenado,negativo
+1818,tanapay,ayudar  favor,positivo
+1819,tantachi unancha,signo de agrupacion,neutro
+1820,tantachina,agrupar,neutro
+1821,tantachipakta,asociativa,positivo
+1822,tantachishka,conjunto,neutro
+1823,tantachishka tantariy,union de conjuntos,neutro
+1824,tantachishkakunapa kutinchipaktachi,propiedades de la interseccion,neutro
+1825,tantachishkakunapa sami,clases de conjuntos,neutro
+1826,tantachishkakunata paktachiy,complementacion de conjuntos,neutro
+1827,tantachishkakunata raki,particion de conjuntos.,neutro
+1828,tantachishkakunata rakiy,particion de conjuntos de conjuntos,neutro
+1829,tantachishkakunata tukuyyachi,complementacion de conjuntos,neutro
+1830,tantachishkamanta anchuchi,diferencia de conjuntos,neutro
+1831,tantachishkapa yapaypaktachikuna,propiedades de la union o adicion,positivo
+1832,tantachishkata kutinkutinchi,conjunto potencia,neutro
+1833,tantachishkata kutinkutinchiy,conjunto potencia,neutro
+1834,tantachiy,agrupacion  recoger,positivo
+1835,tantachiy rurayri,union de conjuntos,neutro
+1836,tantachiy unancha,signo de agrupacion,neutro
+1837,tantachiyachay,unidad didactica,neutro
+1838,tantallalawsay,reino,positivo
+1839,tantalli,panecillo  pan pequeño,neutro
+1840,tantanakuy,organizacion,positivo
+1841,tantari yachaypa yupay,numero de la unidad,neutro
+1842,tantarikillka,acta,neutro
+1843,tantariku,subconjunto,neutro
+1844,tantarimanta killka,acta,neutro
+1845,tantarinakuy,asamblea,neutro
+1846,tantariypa niki,orden del di­a,positivo
+1847,tapuk shutiranti,pronombre interrogativo,neutro
+1848,tapuk yuyay,oracion interrogativa,negativo
+1849,tapuy,preguntar,positivo
+1850,tapuykutichina,entrevistar,positivo
+1851,tapyaruna,mago,neutro
+1852,tapyay,embrujar,negativo
+1853,tarina,encontrar,positivo
+1854,taripana,examen,positivo
+1855,taripana,investigar,positivo
+1856,taripapuk,juez,negativo
+1857,taripay,averiguar,neutro
+1858,taripayhapi,descubrir,positivo
+1859,taririklla paktachik,complemento circunstancial,neutro
+1860,tarpuna,sembrar,positivo
+1861,tarpuy,sembrar,positivo
+1862,tarpuymirariy,implementacion,positivo
+1863,taruka,venado,neutro
+1864,taslla,elegante,neutro
+1865,tatki,minuto,neutro
+1866,tatki chumpiku,cinta metrica,neutro
+1867,tatkikutinchi,multiplo del metro,neutro
+1868,tatkirakinchi,submultiplo del metro,neutro
+1869,tawa,cuadrado,neutro
+1870,tawakunapa puchu,diferencia de cuadrados.,neutro
+1871,tawantin,precision,positivo
+1872,tawantinsuyu,imperio,negativo
+1873,tawasampa,corona grande de plumas de guacamayo,neutro
+1874,tawasuyu,puntos cardinales,neutro
+1875,tawatatki,metro cuadrado,neutro
+1876,tawayashka kullka,prisma cuadrangular,neutro
+1877,tawka,mucho  bastante  monton,positivo
+1878,tawka kawsay,pluricultural,positivo
+1879,tawka kilkanancha kutinchichiy,factorizacion de polinomios en general,neutro
+1880,tawka rikcha kutirik,factor comun polinomio,neutro
+1881,tawri,chocho,neutro
+1882,tay,gol,neutro
+1883,kurpa,terron,neutro
+1884,thuka,saliva,neutro
+1885,allpa,tierra,positivo
+1886,yurak allpa,tierra blanca,positivo
+1887,tsala allpa,tierra esteril,negativo
+1888,alli allpa,tierra fertil,positivo
+1889,yana allpa,tierra negra,negativo
+1890,puka allpa,tierra roja,negativo
+1891,tikrak shimiki,si­laba inversa,neutro
+1892,tikrana,volver,positivo
+1893,tikratarpuy,reforestacion,positivo
+1894,tikray,traducir  convertirse,positivo
+1895,tiksi,base o basico,neutro
+1896,tiksi yachaykuna,contenidos basicos,neutro
+1897,tiksi yuyay,fundamentacion,neutro
+1898,tiksitupu,unidad de medida fundamental,neutro
+1899,tiksiy,fundar,positivo
+1900,tiksiyay mutsuykuna,servicios basicos,positivo
+1901,tinkina,unir,positivo
+1902,tinkirik yuyay,oracion coordinada,neutro
+1903,tinkuchik,concordancia,neutro
+1904,titi,plomo,neutro
+1905,titichaska,minerales,neutro
+1906,titu,acrobacia,neutro
+1907,tituyashka,gimnasia,positivo
+1908,tiya mama,tia,positivo
+1909,tiyak,existe,positivo
+1910,tiyak chanikunata paktachik,balance situacional,neutro
+1911,tiyak yupay,numero natural,positivo
+1912,tiyashkata rikuchik,balance de comprobacion,positivo
+1913,tiyay,posicion,neutro
+1914,tiyu yaya / tiyu tayta,tio,positivo
+1915,tsawar,penco,neutro
+1916,tsia,huevo de parasito  liendra,neutro
+1917,tsiklla,recto,neutro
+1918,tsiknina,odiar,negativo
+1919,tsini,ortiga,negativo
+1920,tsini kuru,larva,neutro
+1921,tsunka,sorbete,neutro
+1922,tsunkana,chupar,negativo
+1923,tukapu,prenda de gala de mujer,positivo
+1924,tuku  putu ,tronco,neutro
+1925,tukuchina  puchukana,consumir,positivo
+1926,tukuchiy,conclusion,positivo
+1927,tukuna,disfraz,neutro
+1928,tukuraya,generalidades,neutro
+1929,tukurik,finito.,neutro
+1930,tukurik tantachishka,conjunto finito,neutro
+1931,tukurina,acabar  terminar,positivo
+1932,tukuriy,fin,positivo
+1933,tukushka,efecto,neutro
+1934,tukuy hillaykuna,aparatos de medicion,positivo
+1935,tukuy shuti,nombre comun,positivo
+1936,tukuy yupaychi,numeros reales,positivo
+1937,tukuyllikuna,generalidades,positivo
+1938,tukuyta shukllayachik,globalizacion,positivo
+1939,tukuyyashka yupay,numero entero,positivo
+1940,tukyana,erupcionar,negativo
+1941,tukyay,explotar,positivo
+1942,tullillak,invertebrado,neutro
+1943,tullpu,color,positivo
+1944,tullpukuna,colores,positivo
+1945,tullpushka,teñido,neutro
+1946,tullu,hueso,neutro
+1947,tullupaki,fractura,negativo
+1948,tulukancha,vivero,positivo
+1949,tunkuri,esofago,neutro
+1950,tupu,medida,neutro
+1951,tupukamaychi,sistema de medida,positivo
+1952,tupuna,medir,neutro
+1953,tupuy,medida,neutro
+1954,turi,hermanos,positivo
+1955,turu,lodo,negativo
+1956,turuwan makiruray pacha,periodo formativo,positivo
+1957,tushuna,danzar,positivo
+1958,tuta,noche,negativo
+1959,tuta suyu,oeste,neutro
+1960,tutamanta,madrugada,negativo
+1961,tutamikuy,cenar,positivo
+1962,tutayana,anochecer,positivo
+1963,tutura,totora,neutro
+1964,uchilla,pequeno,negativo
+1965,uchilla killka,letra minuscula,neutro
+1966,uchilla tatki,segundo,neutro
+1967,uchillakillka,miniscula,neutro
+1968,uchillayachishka yuyay,resumen,positivo
+1969,uchillayachishka yuyay (w),resumen,positivo
+1970,uchu,aji,negativo
+1971,uka,oca,positivo
+1972,ukku,cuerpo humano,positivo
+1973,ukkukara kuruta,cutaneo,positivo
+1974,ukkukuyuchik,extremidad,positivo
+1975,ukkukuyurikancha,motricidad,positivo
+1976,ukkukuyuykamay,cultura fisica,positivo
+1977,ukkunanchachiy,expresion corporal,positivo
+1978,ukkupa kuskaritimuna,chakra)del cuerpo humano,neutro
+1979,ukkurupay,fiebre,negativo
+1980,ukkuskayku,aparato,neutro
+1981,ukkuyawri,organo,neutro
+1982,ukllana,abrazar,positivo
+1983,ukllay,abrazar,positivo
+1984,uksha,paja,neutro
+1985,uku,dentro,positivo
+1986,uku kushma,camiseta,neutro
+1987,ukucha,raton,neutro
+1988,ukumari,oso,neutro
+1989,ukunpuray,interrelacion,neutro
+1990,ukururu,berro,neutro
+1991,ukuyashka,concavo,neutro
+1992,ulku,macho animales,neutro
+1993,ullu,pene,positivo
+1994,uma,cabeza,positivo
+1995,uma ruka,dedo de la cabeza  anular,negativo
+1996,uma tullu,craneo,positivo
+1997,umachi,engano,negativo
+1998,umachik,traidor  enganador,negativo
+1999,umachiy,enganar,negativo
+2000,umachuku,visera,neutro
+2001,umamuskuy,fantasia,neutro
+2002,umayarina,sensopercepcion,neutro
+2003,umayuyana,imaginar,positivo
+2004,umayuyay,imaginacion,positivo
+2005,umiña,cubo o exaedro,neutro
+2006,umiñakunapa yapa-puchu,suma o diferencia de cubos perfectos,positivo
+2007,umiñatatki,metro cubico,neutro
+2008,umutu,enano,negativo
+2009,unaka,caramelo,neutro
+2010,unanchashkata pakta rikuchik,sistema de numeraciOn decimal,positivo
+2011,unanchay,notacion,positivo
+2012,unayay,tardar,neutro
+2013,unaypi shamuna pacha,futuro mediato,positivo
+2014,unkuk,enfermo,negativo
+2015,upa,mudo,negativo
+2016,uphiyana,beber,positivo
+2017,uray,abajo,negativo
+2018,uray suyu,norte,neutro
+2019,uraykuy,bajar,negativo
+2020,urmana,caer,negativo
+2021,urna ñutuku,cerebro,positivo
+2022,urpi,tortola,neutro
+2023,uru,arana,neutro
+2024,usa,piojo,negativo
+2025,usaysapa kuskakuna,lugares con poderes,positivo
+2026,ushay  atiy,poder,positivo
+2027,ushay  ritimuna,energia,positivo
+2028,ushaykamakunapash,poderes,positivo
+2029,ushi,hija,positivo
+2030,ushina  charina,adquirir,positivo
+2031,ushu,burro,negativo
+2032,ushuhama,nieta,positivo
+2033,ushuta,alpargates,neutro
+2034,utik,loco,negativo
+2035,utikay,locura,negativo
+2036,utka,rapido,positivo
+2037,utkachiy,abreviar  hacer breve,neutro
+2038,utku,hueco,neutro
+2039,uyakuy,obedecer,positivo
+2040,uyana,oir,positivo
+2041,uyana,escuchar,positivo
+2042,uyantin,consonante,neutro
+2043,uyarichay,poner atencion,positivo
+2044,uyarik,sonido,positivo
+2045,uyarikancha yachay,fonologia,neutro
+2046,uyarikuy,ruido  bulla,negativo
+2047,uyaywa,vocal,neutro
+2048,uyaywak,sonido.,positivo
+2049,uyaywakancha yachay,fonologia,neutro
+2050,unanchikrimay,voz,positivo
+2051,wacha,sabado,neutro
+2052,wacha puncha,sabado,neutro
+2053,wachana / pakarina,nacer,positivo
+2054,wachariy / pakariy,nacimiento,positivo
+2055,wachi,vector o rayo,neutro
+2056,wachuchiy,verso,neutro
+2057,waka,sagrado,negativo
+2058,waka kuskakuna,lugares sagrados,positivo
+2059,wakana,llorar,negativo
+2060,wakarapuku,cuerno musical instrumento de viento hecho con un cuerno y que sirve a forma de trompeta,positivo
+2061,wakayachina,conservar,positivo
+2062,wakaychina,guardar,positivo
+2063,wakcha,pobre,negativo
+2064,wakchi,flecha  lanza  saeta  dardo,neutro
+2065,waki,sociedad,positivo
+2066,waki kawsaymantawankuri,organizacion socio cultural,positivo
+2067,wakichina,preservar,positivo
+2068,wakikamay,sociologia,positivo
+2069,wakimpi,alguna vez,negativo
+2070,wakin,alguno,neutro
+2071,wakiy,compartir,positivo
+2072,waklishka,danado  podrido,negativo
+2073,waklli,crisis,negativo
+2074,wakllichik,deterioro,negativo
+2075,wakllichina,agravio  dañar,negativo
+2076,wakra,ganado,neutro
+2077,waksa,lagartija,neutro
+2078,waksi,gas,neutro
+2079,waksisapa,gaseoso,neutro
+2080,waktana,golpe,negativo
+2081,waktanakuy,luchar,negativo
+2082,walaku,rana comestible,neutro
+2083,walinyana,balancear,neutro
+2084,wallinku,conejo,positivo
+2085,wallka,collar,positivo
+2086,wallpa,forma  formacion,positivo
+2087,wallpachi yuyay,teoria creacionista,positivo
+2088,wallpana,crear  inventar,positivo
+2089,wallpari,invento  creacion,positivo
+2090,wallpay,estructura,neutro
+2091,wallpaykamay,filosofia,neutro
+2092,walpana,crear  inventar,positivo
+2093,waltaku,pantalon de tela,neutro
+2094,waman,gavilan,neutro
+2095,wamintsi,rosado,neutro
+2096,wampra,joven  adolescente varon,positivo
+2097,wampuk,barco  lancha,neutro
+2098,wampuk rikutirikancha,puerto mari­timo,neutro
+2099,wampulli,bote  canoa  velero  barca pequeña,neutro
+2100,wampuna,nadar,positivo
+2101,wampuy,natacion,positivo
+2102,wampuypi shuwakkuna,piratas  corsario,neutro
+2103,wamra,puber,neutro
+2104,wanachiy,castigar,negativo
+2105,wanchiy,matar,negativo
+2106,wankuri,organizacion socio cultural,positivo
+2107,wantu,floripondio,neutro
+2108,wanu,fertilizante natural,positivo
+2109,wanyari,evaporacion,positivo
+2110,wara,pantalon de lana,neutro
+2111,warakay,lanzamiento,neutro
+2112,waranka,mil  1000,neutro
+2113,waranka piti,tanto por mil.,neutro
+2114,warankakri,milesimo.,neutro
+2115,warankaku,kilogramo,neutro
+2116,warankawataychi,milenio,neutro
+2117,waricha/pampawarmi,prostituta,negativo
+2118,warichakay,prostitucion,negativo
+2119,warichariy,locura,positivo
+2120,warmi,mujer  esposa,positivo
+2121,warmi wara,blusa,neutro
+2122,warmipurakuyay,lesbianismo,negativo
+2123,warunruk  chachu,astro,neutro
+2124,washa,espalda,neutro
+2125,washa tullu,columna vertebral  espinazo,neutro
+2126,washa tullu ñutuku,medula espinal,neutro
+2127,washa ñutuku,cerebelo,neutro
+2128,washarimay,murmuracion  critica,negativo
+2129,washatarimay,murmurar,negativo
+2130,wasi,casa,neutro
+2131,wasi allpa rantimanta,bienes y raices,positivo
+2132,wasiruraykamay,arquitectura,positivo
+2133,waska,soga,neutro
+2134,waskariklla,ritmo,positivo
+2135,wasra,vino,positivo
+2136,wata,año,neutro
+2137,watapacha,calendario,neutro
+2138,watay wasi,prision,negativo
+2139,watayuk,edad,positivo
+2140,watu,cadena,negativo
+2141,watuchina  imashi,adivinar,positivo
+2142,wawa,niño,positivo
+2143,wawa chumpi,faja-delgada,neutro
+2144,wawa kullki kamachik,regla de interes simple.,neutro
+2145,wawa mama,placenta,neutro
+2146,wawa ruka,dedo meñique,neutro
+2147,wawakay,niñez,positivo
+2148,wawakullki,interes.,negativo
+2149,wawchiy,influencia,negativo
+2150,wawki,hermanos,positivo
+2151,wawkikay,hermandad entre hombres,positivo
+2152,wayay,oxigeno,positivo
+2153,waychi,plomo,neutro
+2154,wayku,quebrada  barranco,neutro
+2155,waykuhaskancha,relieve,neutro
+2156,waykukaskancha,relieve,neutro
+2157,waylla,verde,neutro
+2158,wayllamkay,obrajes,neutro
+2159,waylluy,ternura,positivo
+2160,wayna,joven  amante.,positivo
+2161,wayra,aire  viento,positivo
+2162,wayrakata  wayramaytu,atmosfera,positivo
+2163,wayrayay,volatilidad,neutro
+2164,wayru,octubre,neutro
+2165,wayru killa,octubre,neutro
+2166,wayta,clavel,positivo
+2167,wañuna,morir,negativo
+2168,wañuy,muerte,negativo
+2169,wañuykamachiy,ley de inquisicion,positivo
+2170,wichay,subida  cuesta,negativo
+2171,wichay suyu,sur,neutro
+2172,wichayana,ascender,positivo
+2173,wichisuni,alto,positivo
+2174,wichkachik,parentesis,neutro
+2175,wichkak chupa,comilla,neutro
+2176,wichkak chupa(w),comilla,neutro
+2177,wichkashka,encerrado,negativo
+2178,wika,escremento,negativo
+2179,wikar,cintura,neutro
+2180,wiki,lagrima,negativo
+2181,wikka mayu,sumo saserdote,positivo
+2182,wiksa,barriga  vientre,positivo
+2183,wikuriy,flexibilidad,positivo
+2184,wilka,ritos,positivo
+2185,wilkana,rito,positivo
+2186,wilkana  muchana,adorar  venerar,positivo
+2187,wilkay,sagrado,positivo
+2188,willachik,noticia,positivo
+2189,willak hillay,medio de comunicacion,positivo
+2190,willak pirka(w),periodico mural,neutro
+2191,willak yuyay,oracion enunciativa,positivo
+2192,willakpirka,periodico mural,neutro
+2193,willana,avisar  informar,positivo
+2194,willayhillay,medio de comunicacion,positivo
+2195,willaykancha,medios de comunicacion,positivo
+2196,williku,espermatozoide,neutro
+2197,wilyay  lumyay,llamarada,neutro
+2198,winkuchikkuna,parentesis,neutro
+2199,winkuk,llaves,neutro
+2200,wirakucha,rubicundo  pelirojo  rubio,neutro
+2201,wisiyay,crema,neutro
+2202,wisnu,materia,negativo
+2203,wisya,crema,neutro
+2204,witikwitik,tambalear,negativo
+2205,witsyayay,subirse,negativo
+2206,wiwakamay,ganaderia,neutro
+2207,wiwakuna,animales,positivo
+2208,wiwika,oveja,positivo
+2209,wiwika  llama,oveja,positivo
+2210,wiña,generacion,positivo
+2211,wiñachina,criar,positivo
+2212,wiñachishka shimi,neologismo,neutro
+2213,wiñakukllachak (k),almacigos,neutro
+2214,wiñana,crecer,positivo
+2215,wiñari,desarrollo,positivo
+2216,wiñarikpukyu,fuente  vertiente,positivo
+2217,wiñarina,desarrollar,positivo
+2218,wiñay,siempre,neutro
+2219,wiñay kawsay kallaripi rurayta kamay,arqueologia,neutro
+2220,wiñay kawsaykallaripi ruraytakamay,arqueologia,neutro
+2221,wiñaykawsay,historia,positivo
+2222,wiñaykawsay imakuna,hechos historicos,positivo
+2223,wiñaykawsay kallariy,prehistoria,positivo
+2224,wiñaykaysay kallari,inicio de la historia,positivo
+2225,yachakuna,aprender,positivo
+2226,yachana,saber,positivo
+2227,yachana wasi,escuela,positivo
+2228,yachapayay,dramatizacion,positivo
+2229,yachapayay (w),dramatizacion,positivo
+2230,yachariy,estar acostumbrado,negativo
+2231,yachay,ciencia  educacion,positivo
+2232,yachay pampa,area,neutro
+2233,yachay ñan,proceso metodologico,neutro
+2234,yachayay,enterarse,neutro
+2235,yachaykamachik,ley de educacion,positivo
+2236,yachaykancha,area,neutro
+2237,yachaykuna,sabiduri­a,positivo
+2238,yachaypa hillay,material didictico,neutro
+2239,yachaypak hillay,recurso didictico,neutro
+2240,yachayruray,practica,positivo
+2241,yachayshuti,titulo,positivo
+2242,yachayta taripana,dominio del conocimiento,positivo
+2243,yachayta taripay,dominio del conocimiento,positivo
+2244,yachayta wallpay,creacion del conocimiento,positivo
+2245,yachayta willana,socializacion del conocimiento,positivo
+2246,yachayta wiñachiy,creacion del conocimiento,positivo
+2247,yachaywa,tema,neutro
+2248,yachaywa (w),tema,neutro
+2249,yachaywan rurana,aplicacion del conocimiento,positivo
+2250,yachayyuyay,teoria,neutro
+2251,yachayñan,metodologia,neutro
+2252,yaksina,fundir,neutro
+2253,yaksishka,fundido,negativo
+2254,yaku,agua,positivo
+2255,yaku ishpa,orina,negativo
+2256,yaku larka,canal de riego,negativo
+2257,yaku shunku,higado,negativo
+2258,yakuhampik chuyayachik yachuchik,cloracion del agua,neutro
+2259,yakukamay,hidrografia,neutro
+2260,yakumuyuyallpa,isla  tierra rodeade de agua,neutro
+2261,yakushushuy,decantacion,neutro
+2262,yakuyachik,disolvente,neutro
+2263,yakuyachina,disolver,neutro
+2264,yakuyachiy,derretir,negativo
+2265,yakuyakkuri,golfo,neutro
+2266,yakuyashka,liquido,positivo
+2267,yakwallpa,anfibios,negativo
+2268,yalli paktachik,complemento directo,neutro
+2269,yalli paktachik yp,complemento directo,neutro
+2270,yallichawpiyak,moda,positivo
+2271,yallilutsayak,proporcion geometrica o directa,neutro
+2272,yallimanya,cateto mayor,positivo
+2273,yallishka,mayor que,positivo
+2274,yallishka pacha,tiempo pasado,negativo
+2275,yalliyak pakiyupay,fraccion inpropia,negativo
+2276,yana sara,maiz negro,negativo
+2277,yana shunku,riñon,neutro
+2278,yana yana,negro intenso,negativo
+2279,yanakuna,servidumbre,negativo
+2280,yanantina  kutuna  hatun hallmana,aporcar,neutro
+2281,yanapak wasi,agencia de desarrollo,positivo
+2282,yanapak wasikuna,instituciones,positivo
+2283,yanapana,ayudar,positivo
+2284,yanapanka,servicio,positivo
+2285,yanapay,servicio  servir,positivo
+2286,yanapayana,solidarizar,positivo
+2287,yanapayaymanta,solidadaridad,positivo
+2288,yankakapak,politiquero,positivo
+2289,yankakichuna,invadir,negativo
+2290,yankakichuy,invasion,negativo
+2291,yankichik,agentes,negativo
+2292,yankina,modificar,positivo
+2293,yankina  shukmanyachina,cambiar,positivo
+2294,yankinachik,agente modificador,positivo
+2295,yankiy,cambio,negativo
+2296,yanuna,cocinar,positivo
+2297,yanuna uku,cocina,neutro
+2298,yapa tantachiy,conjunto union,neutro
+2299,yapakullki,monto,neutro
+2300,yapakullkina,usura,neutro
+2301,yapakutinchiklla,frecuencia acumulada,neutro
+2302,yapalutsay,proporcionalidad directa,neutro
+2303,yaparikkuna,sumandos,positivo
+2304,yapatantachi,union de conjuntos,positivo
+2305,yapuk,arador,neutro
+2306,yari,sentido,neutro
+2307,yariyachina,percibir,positivo
+2308,yarkay,hambre,negativo
+2309,yawar,sangre,negativo
+2310,yawar ayllunikiyashka,grados de consanguinidad,neutro
+2311,yawar muyuri,circulacion de sangre,positivo
+2312,yawarchakruri,mestizaje,positivo
+2313,yawarmuyuriy,circulatorio sanguineo,positivo
+2314,yawarpuriy,presion arterial,positivo
+2315,yawati,tortuga,neutro
+2316,yawatisuyu,region insular galapagos,neutro
+2317,yawri,aguja,negativo
+2318,yaya,padre,positivo
+2319,yaya / tayta,papa  padre,positivo
+2320,yaykuchiy  satiy,introduccion  fi­sica,positivo
+2321,yaykuna,entrar,positivo
+2322,yukuna  yumana,aparear,neutro
+2323,yuma,semen,neutro
+2324,yumariy,unirse sexualmente,positivo
+2325,yumay,semen,neutro
+2326,yupachay,cortesia,positivo
+2327,yupachi,conteo,positivo
+2328,yupana,contar,positivo
+2329,yupay chani,valor absoluto o numerico,positivo
+2330,yupaychana,agradecer,positivo
+2331,yupaychani,gracias,positivo
+2332,yupaykamay,matematica,positivo
+2333,yupaykamay hillaykuna,materiales didacticos de la matematica,neutro
+2334,yupaykamaychi,sistema numerico,positivo
+2335,yupaykamaychi yuyay,pensamiento logico matematico,positivo
+2336,yupaykamayuk,matematico,positivo
+2337,yupaykuna,los numeros,positivo
+2338,yupaykuska,recta numerica,positivo
+2339,yupaylli,cuenta bancaria,positivo
+2340,yupaymillka,esquema numerico,neutro
+2341,yupaynikichik,calculadora,neutro
+2342,yupaypurachi,razon,positivo
+2343,yupayrurayri,operacion numerica o aritmetica,positivo
+2344,yura,planta,neutro
+2345,yurak,blanco,neutro
+2346,yurak sara,maiz blanco,neutro
+2347,yurak shunku,pulmon,neutro
+2348,yurakamak,forestal,neutro
+2349,yurakuna,plantas,neutro
+2350,yutay,influencia,negativo
+2351,yuyakillkalla,carta,neutro
+2352,yuyakyashka,vejez,negativo
+2353,yuyana,pensar,positivo
+2354,yuyarikkuna,reflexiones,positivo
+2355,yuyarina,reflexionar,positivo
+2356,yuyasha,cautela,negativo
+2357,yuyay,pensamieto,positivo
+2358,yuyay awariy,sintaxis,neutro
+2359,yuyay kaspi,linea imaginaria,neutro
+2360,yuyay paktay,unidad de criterio,neutro
+2361,yuyay rurayri,problemas razonados.,neutro
+2362,yuyaychipukllay,rompecabezas,negativo
+2363,yuyaynikik,software,neutro
+2364,yuyaynina,opinar,positivo
+2365,yuyaypaktana,concertar,positivo
+2366,yuyayrikuchik,determinacion o definicion,neutro
+2367,yuyayrina,concentrar,positivo
+2368,yuyayrina,concentrar mental,positivo
+2369,yuyu / panra,nabo,neutro
+2370,zampu,sambo  calabaza,neutro
+2371,zirmaputulli,bateria  pila,neutro
+2372,ñachu,ya esta  ya es,neutro
+2373,ñakariy,pasion de placer,positivo
+2374,ñankamu,guia,positivo
+2375,ñankamu (w),guia didactica,positivo
+2376,ñapash shamuna pacha,futuro inmediato,positivo
+2377,ñawchina,auxiliar  cooperar  influenciar  contribuir,positivo
+2378,ñawchina  yanapana,auxiliar,positivo
+2379,ñawi,cara  rostro,neutro
+2380,ñawi chakata,glandula pineal,neutro
+2381,ñawi chichu,mejilla,neutro
+2382,ñawi lulun,ojo,neutro
+2383,ñawi millma,pestaña,neutro
+2384,ñawi pata millma,ceja,neutro
+2385,ñawirina  killkakatina,leer,positivo
+2386,ñawirina  killkakatina (taller b),leer,positivo
+2387,ñawpa,delante tiempo,positivo
+2388,ñawpa kawsay pacha,eras antiguas,neutro
+2389,ñawpa pachak-watakuna,largos siglos,negativo
+2390,ñawpa uma tullu,hueso frontal del craneo,neutro
+2391,ñawpak,principales,positivo
+2392,ñawpakawsay imarikuchi kunakamay,vestigios arqueologicos,neutro
+2393,ñawpakawsayimarikuchi kunakamay,vestigios arqueologicos,neutro
+2394,awpana,adelantar,positivo
+2395,ñawpanchina,promover.,positivo
+2396,ñawpanchina (w),promover,positivo
+2397,ñawpapacha,paleolitico,neutro
+2398,ñawparimay,mito  cuento  leyenda,neutro
+2399,ñaña,hermanas,positivo

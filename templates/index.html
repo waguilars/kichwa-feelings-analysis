@@ -1,0 +1,105 @@
+{% extends "layout.html" %} {% block content %}
+
+<div class="row mt-3 justify-content-between">
+  <div class="col-3 text-box p-3">
+    <h3>Frase:</h3>
+    <select class="w-100" name="frase" id="frase">
+      <option value="-1">Seleccione el texto</option>
+      <option value="0">Texto 1</option>
+      <option value="1">Texto 2</option>
+      <option value="2">Texto 3</option>
+      <option value="3">Texto 4</option>
+      <option value="4">Texto 5</option>
+      <option value="5">Texto 6</option>
+      <option value="6">Texto 7</option>
+      <option value="7">Texto 8</option>
+      <option value="8">Texto 9</option>
+    </select>
+  </div>
+  <script>
+    const fraseSelect = document.querySelector('#frase');
+    fraseSelect.addEventListener('change', (e) => {
+      const value = e.target.value;
+      location.href = `/?op=${value}`;
+    });
+  </script>
+  <div class="col-4 text-box p-3">
+    <h3>Kichwa</h3>
+    <p>
+      {% if kichwa %}
+        {{kichwa}}
+      {% endif %}
+    </p>
+  </div>
+  <div class="col-4 text-box p-3">
+    <h3>Castellano</h3>
+    <p>
+      {% if esp %}
+        {{esp}}
+      {% endif %}
+    </p>
+  </div>
+</div>
+
+<div class="row my-3">
+  <h3 class="text-center">
+    {% if sent %}
+      El sentimiento es:
+        <strong>{{sent}}</strong>
+      {% endif %}
+  </h3>
+</div>
+
+<div class="row container">
+  <table class="table table-hover table-striped table-light">
+    <thead>
+      <tr>
+        <th>Sentimiento</th>
+        <th>Jaccard</th>
+        <th>Coseno</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Positivo</td>
+        <td>
+          {% if jac %}
+            {{jac['positivo']}}
+          {% endif %}
+        </td>
+        <td>
+          {% if cos %}
+          {{cos['positivo']}}
+          {% endif %}
+        </td>
+      </tr>
+      <tr>
+        <td>Neutro</td>
+        <td>
+          {% if jac %}
+            {{jac['negativo']}}
+          {% endif %}
+        </td>
+        <td>
+          {% if cos %}
+            {{cos['negativo']}}
+          {% endif %}
+        </td>
+      </tr>
+      <tr>
+        <td>Negativo</td>
+        <td>
+          {% if jac %}
+            {{jac['neutro']}}
+          {% endif %}
+        </td>
+        <td>
+          {% if cos %}
+            {{cos['neutro']}}
+          {% endif %}
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+{% endblock %}

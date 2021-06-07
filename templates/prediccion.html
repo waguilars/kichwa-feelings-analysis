@@ -1,0 +1,67 @@
+{% extends "layout.html" %} {% block content %}
+
+<div class="row justify-content-center my-5">
+  <div class="col-4 text-box p-3">
+    {% if text %}
+    <label class="form-label"><strong>Texto ingresado:</strong></label>
+    <p>{{text}}</p>
+    {% else %}
+    <form action="/analisis" method="POST">
+      <div class="mb-3">
+        <label class="form-label">Ingrese el texto:</label>
+        <textarea
+          name="text"
+          class="form-control"
+          id=""
+          cols="30"
+          rows="10"
+        ></textarea>
+      </div>
+
+      <button class="btn btn-dark mx-auto d-block" type="submit">Enviar</button>
+    </form>
+    {% endif %}
+  </div>
+</div>
+
+<div class="row my-3">
+  <h3 class="text-center">
+    {% if sent %} El sentimiento es:
+    <strong>{{sent}}</strong>
+    {% endif %}
+  </h3>
+</div>
+
+{% if sent %}
+
+<div class="row container justify-content-center">
+  <div class="col-6">
+    <table class="table table-hover table-striped table-light">
+      <thead>
+        <tr>
+          <th>Sentimiento</th>
+          <th>Jaccard</th>
+          <th>Coseno</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Positivo</td>
+          <td>{% if jac %} {{jac['positivo']}} {% endif %}</td>
+          <td>{% if cos %} {{cos['positivo']}} {% endif %}</td>
+        </tr>
+        <tr>
+          <td>Neutro</td>
+          <td>{% if jac %} {{jac['negativo']}} {% endif %}</td>
+          <td>{% if cos %} {{cos['negativo']}} {% endif %}</td>
+        </tr>
+        <tr>
+          <td>Negativo</td>
+          <td>{% if jac %} {{jac['neutro']}} {% endif %}</td>
+          <td>{% if cos %} {{cos['neutro']}} {% endif %}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endif %} {% endblock %}
